@@ -1,0 +1,1968 @@
+LOCUS       NC_000019              31821 bp    DNA     linear   CON 13-AUG-2013
+DEFINITION  Homo sapiens chromosome 19, GRCh37.p13 Primary Assembly.
+ACCESSION   NC_000019
+VERSION     NC_000019.9
+DBLINK      BioProject: PRJNA168
+            Assembly: GCF_000001405.25
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 31821)
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Finishing the euchromatic sequence of the human genome
+  JOURNAL   Nature 431 (7011), 931-945 (2004)
+   PUBMED   15496913
+REFERENCE   2  (bases 1 to 31821)
+  AUTHORS   Grimwood,J., Gordon,L.A., Olsen,A., Terry,A., Schmutz,J.,
+            Lamerdin,J., Hellsten,U., Goodstein,D., Couronne,O., Tran-Gyamfi,M.,
+            Aerts,A., Altherr,M., Ashworth,L., Bajorek,E., Black,S.,
+            Branscomb,E., Caenepeel,S., Carrano,A., Caoile,C., Chan,Y.M.,
+            Christensen,M., Cleland,C.A., Copeland,A., Dalin,E., Dehal,P.,
+            Denys,M., Detter,J.C., Escobar,J., Flowers,D., Fotopulos,D.,
+            Garcia,C., Georgescu,A.M., Glavina,T., Gomez,M., Gonzales,E.,
+            Groza,M., Hammon,N., Hawkins,T., Haydu,L., Ho,I., Huang,W.,
+            Israni,S., Jett,J., Kadner,K., Kimball,H., Kobayashi,A.,
+            Larionov,V., Leem,S.H., Lopez,F., Lou,Y., Lowry,S., Malfatti,S.,
+            Martinez,D., McCready,P., Medina,C., Morgan,J., Nelson,K., Nolan,M.,
+            Ovcharenko,I., Pitluck,S., Pollard,M., Popkie,A.P., Predki,P.,
+            Quan,G., Ramirez,L., Rash,S., Retterer,J., Rodriguez,A., Rogers,S.,
+            Salamov,A., Salazar,A., She,X., Smith,D., Slezak,T., Solovyev,V.,
+            Thayer,N., Tice,H., Tsai,M., Ustaszewska,A., Vo,N., Wagner,M.,
+            Wheeler,J., Wu,K., Xie,G., Yang,J., Dubchak,I., Furey,T.S.,
+            DeJong,P., Dickson,M., Gordon,D., Eichler,E.E., Pennacchio,L.A.,
+            Richardson,P., Stubbs,L., Rokhsar,D.S., Myers,R.M., Rubin,E.M. and
+            Lucas,S.M.
+  TITLE     The DNA sequence and biology of human chromosome 19
+  JOURNAL   Nature 428 (6982), 529-535 (2004)
+   PUBMED   15057824
+REFERENCE   3  (bases 1 to 31821)
+  AUTHORS   Lander,E.S., Linton,L.M., Birren,B., Nusbaum,C., Zody,M.C.,
+            Baldwin,J., Devon,K., Dewar,K., Doyle,M., FitzHugh,W., Funke,R.,
+            Gage,D., Harris,K., Heaford,A., Howland,J., Kann,L., Lehoczky,J.,
+            LeVine,R., McEwan,P., McKernan,K., Meldrim,J., Mesirov,J.P.,
+            Miranda,C., Morris,W., Naylor,J., Raymond,C., Rosetti,M., Santos,R.,
+            Sheridan,A., Sougnez,C., Stange-Thomann,N., Stojanovic,N.,
+            Subramanian,A., Wyman,D., Rogers,J., Sulston,J., Ainscough,R.,
+            Beck,S., Bentley,D., Burton,J., Clee,C., Carter,N., Coulson,A.,
+            Deadman,R., Deloukas,P., Dunham,A., Dunham,I., Durbin,R., French,L.,
+            Grafham,D., Gregory,S., Hubbard,T., Humphray,S., Hunt,A., Jones,M.,
+            Lloyd,C., McMurray,A., Matthews,L., Mercer,S., Milne,S.,
+            Mullikin,J.C., Mungall,A., Plumb,R., Ross,M., Shownkeen,R., Sims,S.,
+            Waterston,R.H., Wilson,R.K., Hillier,L.W., McPherson,J.D.,
+            Marra,M.A., Mardis,E.R., Fulton,L.A., Chinwalla,A.T., Pepin,K.H.,
+            Gish,W.R., Chissoe,S.L., Wendl,M.C., Delehaunty,K.D., Miner,T.L.,
+            Delehaunty,A., Kramer,J.B., Cook,L.L., Fulton,R.S., Johnson,D.L.,
+            Minx,P.J., Clifton,S.W., Hawkins,T., Branscomb,E., Predki,P.,
+            Richardson,P., Wenning,S., Slezak,T., Doggett,N., Cheng,J.F.,
+            Olsen,A., Lucas,S., Elkin,C., Uberbacher,E., Frazier,M., Gibbs,R.A.,
+            Muzny,D.M., Scherer,S.E., Bouck,J.B., Sodergren,E.J., Worley,K.C.,
+            Rives,C.M., Gorrell,J.H., Metzker,M.L., Naylor,S.L.,
+            Kucherlapati,R.S., Nelson,D.L., Weinstock,G.M., Sakaki,Y.,
+            Fujiyama,A., Hattori,M., Yada,T., Toyoda,A., Itoh,T., Kawagoe,C.,
+            Watanabe,H., Totoki,Y., Taylor,T., Weissenbach,J., Heilig,R.,
+            Saurin,W., Artiguenave,F., Brottier,P., Bruls,T., Pelletier,E.,
+            Robert,C., Wincker,P., Smith,D.R., Doucette-Stamm,L., Rubenfield,M.,
+            Weinstock,K., Lee,H.M., Dubois,J., Rosenthal,A., Platzer,M.,
+            Nyakatura,G., Taudien,S., Rump,A., Yang,H., Yu,J., Wang,J.,
+            Huang,G., Gu,J., Hood,L., Rowen,L., Madan,A., Qin,S., Davis,R.W.,
+            Federspiel,N.A., Abola,A.P., Proctor,M.J., Myers,R.M., Schmutz,J.,
+            Dickson,M., Grimwood,J., Cox,D.R., Olson,M.V., Kaul,R., Raymond,C.,
+            Shimizu,N., Kawasaki,K., Minoshima,S., Evans,G.A., Athanasiou,M.,
+            Schultz,R., Roe,B.A., Chen,F., Pan,H., Ramser,J., Lehrach,H.,
+            Reinhardt,R., McCombie,W.R., de la Bastide,M., Dedhia,N.,
+            Blocker,H., Hornischer,K., Nordsiek,G., Agarwala,R., Aravind,L.,
+            Bailey,J.A., Bateman,A., Batzoglou,S., Birney,E., Bork,P.,
+            Brown,D.G., Burge,C.B., Cerutti,L., Chen,H.C., Church,D., Clamp,M.,
+            Copley,R.R., Doerks,T., Eddy,S.R., Eichler,E.E., Furey,T.S.,
+            Galagan,J., Gilbert,J.G., Harmon,C., Hayashizaki,Y., Haussler,D.,
+            Hermjakob,H., Hokamp,K., Jang,W., Johnson,L.S., Jones,T.A.,
+            Kasif,S., Kaspryzk,A., Kennedy,S., Kent,W.J., Kitts,P., Koonin,E.V.,
+            Korf,I., Kulp,D., Lancet,D., Lowe,T.M., McLysaght,A., Mikkelsen,T.,
+            Moran,J.V., Mulder,N., Pollara,V.J., Ponting,C.P., Schuler,G.,
+            Schultz,J., Slater,G., Smit,A.F., Stupka,E., Szustakowski,J.,
+            Thierry-Mieg,D., Thierry-Mieg,J., Wagner,L., Wallis,J., Wheeler,R.,
+            Williams,A., Wolf,Y.I., Wolfe,K.H., Yang,S.P., Yeh,R.F., Collins,F.,
+            Guyer,M.S., Peterson,J., Felsenfeld,A., Wetterstrand,K.A.,
+            Patrinos,A., Morgan,M.J., de Jong,P., Catanese,J.J., Osoegawa,K.,
+            Shizuya,H., Choi,S. and Chen,Y.J.
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Initial sequencing and analysis of the human genome
+  JOURNAL   Nature 409 (6822), 860-921 (2001)
+   PUBMED   11237011
+  REMARK    Erratum:[Nature 2001 Aug 2;412(6846):565]
+COMMENT     ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Homo sapiens Annotation Release 105
+            Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline
+            Annotation Software Version :: 5.1
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            REFSEQ INFORMATION: The reference sequence is identical to
+            CM000681.1.
+            [WARNING] On Feb 3, 2014 this sequence was replaced by
+            NC_000019.10.
+            On Jun 10, 2009 this sequence version replaced NC_000019.8.
+            Assembly Name: GRCh37.p13 Primary Assembly
+            The DNA sequence is composed of genomic sequence, primarily
+            finished clones that were sequenced as part of the Human Genome
+            Project. PCR products and WGS shotgun sequence have been added
+            where necessary to fill gaps or correct errors. All such additions
+            are manually curated by GRC staff. For more information see:
+            http://genomereference.org.
+FEATURES             Location/Qualifiers
+     source          1..31821
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+     gene            2..27268
+                     /gene="HCN2"
+                     /gene_synonym="BCNG-2; BCNG2; HAC-1"
+                     /note="hyperpolarization activated cyclic nucleotide-gated
+                     potassium channel 2; Derived by automated computational
+                     analysis using gene prediction method: BestRefSeq."
+                     /db_xref="GeneID:610"
+                     /db_xref="HGNC:HGNC:4846"
+                     /db_xref="MIM:602781"
+     gene            complement(412..1724)
+                     /gene="LOC100420586"
+                     /note="Rho GTPase activating protein 33 pseudogene; Derived
+                     by automated computational analysis using gene prediction
+                     method: Curated Genomic."
+                     /pseudo=""
+                     /db_xref="GeneID:100420586"
+     gene            complement(27332..>31821)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="polymerase (RNA) mitochondrial (DNA directed);
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq,Gnomon."
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+     variant         280
+                     /label="chr19_590172_G_A"
+     variant         431
+                     /label="chr19_590323_G_T"
+     variant         474
+                     /label="chr19_590366_G_T"
+     variant         475
+                     /label="chr19_590367_C_T"
+     variant         13733
+                     /label="chr19_603625_T_C"
+     variant         13742
+                     /label="chr19_603634_T_C"
+     variant         13877
+                     /label="chr19_603769_T_C"
+     variant         13934
+                     /label="chr19_603826_C_T"
+     variant         13982
+                     /label="chr19_603874_C_T"
+     variant         15198
+                     /label="chr19_605090_C_T"
+     variant         15279
+                     /label="chr19_605171_T_C"
+     variant         18092
+                     /label="chr19_607984_G_C"
+     variant         23415
+                     /label="chr19_613307_C_T"
+     variant         24006
+                     /label="chr19_613898_T_C"
+     variant         26165
+                     /label="chr19_616057_G_C"
+     variant         27722
+                     /label="chr19_617614_G_A"
+     variant         29129
+                     /label="chr19_619021_G_C"
+     variant         29388
+                     /label="chr19_619280_G_A"
+     variant         31171
+                     /label="chr19_621063_A_G"
+     variant         31178
+                     /label="chr19_621070_G_A"
+     variant         31820
+                     /label="chr19_621712_A_G"
+     my-1_CDS_0      55..686
+                     /gene="HCN2"
+                     /gene_synonym="BCNG-2; BCNG2; HAC-1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="potassium/sodium hyperpolarization-activated
+                     cyclic nucleotide-gated channel 2"
+                     /protein_id="NP_001185.3"
+                     /db_xref="CCDS:CCDS12035.1"
+                     /db_xref="GeneID:610"
+                     /db_xref="HGNC:HGNC:4846"
+                     /db_xref="MIM:602781"
+                     /translation="MDARGGGGRPGESPGATPAPGPPPPPPPAPPQQQPPPPPPPAPPP
+                     GPGPAPPQHPPRAEALPPEAADEGGPRGRLRSRDSSCGRPGTPGAASTAKGSPNGECGR
+                     GEPQCSPAGPEGPARGPKVSFSCRGAASGPAPGPGPAEEAGSEEAGPAGEPRGSQASFM
+                     QRQFGALLQPGVNKFSLRMFGSQKAVEREQERVKSAGAWIIHPYSDFRFYWDFTMLLFM
+                     VGNLIIIPVGITFFKDETTAPWIVFNVVSDTFFLMDLVLNFRTGIVIEDNTEIILDPEK
+                     IKKKYLRTWFVVDFVSSIPVDYIFLIVEKGIDSEVYKTARALRIVRFTKILSLLRLLRL
+                     SRLIRYIHQWEEIFHMTYDLASAVMRICNLISMMLLLCHWDGCLQFLVPMLQDFPRNCW
+                     VSINGMVNHSWSELYSFALFKAMSHMLCIGYGRQAPESMTDIWLTMLSMIVGATCYAMF
+                     IGHATALIQSLDSSRRQYQEKYKQVEQYMSFHKLPADFRQKIHDYYEHRYQGKMFDEDS
+                     ILGELNGPLREEIVNFNCRKLVASMPLFANADPNFVTAMLTKLKFEVFQPGDYIIREGT
+                     IGKKMYFIQHGVVSVLTKGNKEMKLSDGSYFGEICLLTRGRRTASVRADTYCRLYSLSV
+                     DNFNEVLEEYPMMRRAFETVAIDRLDRIGKKNSILLHKVQHDLNSGVFNNQENAIIQEI
+                     VKYDREMVQQAELGQRVGLFPPPPPPPQVTSAIATLQQAAAMSFCPQVARPLVGPLALG
+                     SPRLVRRPPPGPAPAAASPGPPPPASPPGAPASPRAPRTSPYGGLPAAPLAGPALPARR
+                     LSRASRPLSASQPSLPHGAPGPAASTRPASSSTPRLGPTPAARAAAPSPDRRDSASPGA
+                     AGGLDPQDSARSRLSSNL"
+     my-1_CDS_1      13653..14076
+                     /gene="HCN2"
+                     /gene_synonym="BCNG-2; BCNG2; HAC-1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="potassium/sodium hyperpolarization-activated
+                     cyclic nucleotide-gated channel 2"
+                     /protein_id="NP_001185.3"
+                     /db_xref="CCDS:CCDS12035.1"
+                     /db_xref="GeneID:610"
+                     /db_xref="HGNC:HGNC:4846"
+                     /db_xref="MIM:602781"
+                     /translation="MDARGGGGRPGESPGATPAPGPPPPPPPAPPQQQPPPPPPPAPPP
+                     GPGPAPPQHPPRAEALPPEAADEGGPRGRLRSRDSSCGRPGTPGAASTAKGSPNGECGR
+                     GEPQCSPAGPEGPARGPKVSFSCRGAASGPAPGPGPAEEAGSEEAGPAGEPRGSQASFM
+                     QRQFGALLQPGVNKFSLRMFGSQKAVEREQERVKSAGAWIIHPYSDFRFYWDFTMLLFM
+                     VGNLIIIPVGITFFKDETTAPWIVFNVVSDTFFLMDLVLNFRTGIVIEDNTEIILDPEK
+                     IKKKYLRTWFVVDFVSSIPVDYIFLIVEKGIDSEVYKTARALRIVRFTKILSLLRLLRL
+                     SRLIRYIHQWEEIFHMTYDLASAVMRICNLISMMLLLCHWDGCLQFLVPMLQDFPRNCW
+                     VSINGMVNHSWSELYSFALFKAMSHMLCIGYGRQAPESMTDIWLTMLSMIVGATCYAMF
+                     IGHATALIQSLDSSRRQYQEKYKQVEQYMSFHKLPADFRQKIHDYYEHRYQGKMFDEDS
+                     ILGELNGPLREEIVNFNCRKLVASMPLFANADPNFVTAMLTKLKFEVFQPGDYIIREGT
+                     IGKKMYFIQHGVVSVLTKGNKEMKLSDGSYFGEICLLTRGRRTASVRADTYCRLYSLSV
+                     DNFNEVLEEYPMMRRAFETVAIDRLDRIGKKNSILLHKVQHDLNSGVFNNQENAIIQEI
+                     VKYDREMVQQAELGQRVGLFPPPPPPPQVTSAIATLQQAAAMSFCPQVARPLVGPLALG
+                     SPRLVRRPPPGPAPAAASPGPPPPASPPGAPASPRAPRTSPYGGLPAAPLAGPALPARR
+                     LSRASRPLSASQPSLPHGAPGPAASTRPASSSTPRLGPTPAARAAAPSPDRRDSASPGA
+                     AGGLDPQDSARSRLSSNL"
+     my-1_CDS_2      15170..15331
+                     /gene="HCN2"
+                     /gene_synonym="BCNG-2; BCNG2; HAC-1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="potassium/sodium hyperpolarization-activated
+                     cyclic nucleotide-gated channel 2"
+                     /protein_id="NP_001185.3"
+                     /db_xref="CCDS:CCDS12035.1"
+                     /db_xref="GeneID:610"
+                     /db_xref="HGNC:HGNC:4846"
+                     /db_xref="MIM:602781"
+                     /translation="MDARGGGGRPGESPGATPAPGPPPPPPPAPPQQQPPPPPPPAPPP
+                     GPGPAPPQHPPRAEALPPEAADEGGPRGRLRSRDSSCGRPGTPGAASTAKGSPNGECGR
+                     GEPQCSPAGPEGPARGPKVSFSCRGAASGPAPGPGPAEEAGSEEAGPAGEPRGSQASFM
+                     QRQFGALLQPGVNKFSLRMFGSQKAVEREQERVKSAGAWIIHPYSDFRFYWDFTMLLFM
+                     VGNLIIIPVGITFFKDETTAPWIVFNVVSDTFFLMDLVLNFRTGIVIEDNTEIILDPEK
+                     IKKKYLRTWFVVDFVSSIPVDYIFLIVEKGIDSEVYKTARALRIVRFTKILSLLRLLRL
+                     SRLIRYIHQWEEIFHMTYDLASAVMRICNLISMMLLLCHWDGCLQFLVPMLQDFPRNCW
+                     VSINGMVNHSWSELYSFALFKAMSHMLCIGYGRQAPESMTDIWLTMLSMIVGATCYAMF
+                     IGHATALIQSLDSSRRQYQEKYKQVEQYMSFHKLPADFRQKIHDYYEHRYQGKMFDEDS
+                     ILGELNGPLREEIVNFNCRKLVASMPLFANADPNFVTAMLTKLKFEVFQPGDYIIREGT
+                     IGKKMYFIQHGVVSVLTKGNKEMKLSDGSYFGEICLLTRGRRTASVRADTYCRLYSLSV
+                     DNFNEVLEEYPMMRRAFETVAIDRLDRIGKKNSILLHKVQHDLNSGVFNNQENAIIQEI
+                     VKYDREMVQQAELGQRVGLFPPPPPPPQVTSAIATLQQAAAMSFCPQVARPLVGPLALG
+                     SPRLVRRPPPGPAPAAASPGPPPPASPPGAPASPRAPRTSPYGGLPAAPLAGPALPARR
+                     LSRASRPLSASQPSLPHGAPGPAASTRPASSSTPRLGPTPAARAAAPSPDRRDSASPGA
+                     AGGLDPQDSARSRLSSNL"
+     my-1_CDS_3      18073..18291
+                     /gene="HCN2"
+                     /gene_synonym="BCNG-2; BCNG2; HAC-1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="potassium/sodium hyperpolarization-activated
+                     cyclic nucleotide-gated channel 2"
+                     /protein_id="NP_001185.3"
+                     /db_xref="CCDS:CCDS12035.1"
+                     /db_xref="GeneID:610"
+                     /db_xref="HGNC:HGNC:4846"
+                     /db_xref="MIM:602781"
+                     /translation="MDARGGGGRPGESPGATPAPGPPPPPPPAPPQQQPPPPPPPAPPP
+                     GPGPAPPQHPPRAEALPPEAADEGGPRGRLRSRDSSCGRPGTPGAASTAKGSPNGECGR
+                     GEPQCSPAGPEGPARGPKVSFSCRGAASGPAPGPGPAEEAGSEEAGPAGEPRGSQASFM
+                     QRQFGALLQPGVNKFSLRMFGSQKAVEREQERVKSAGAWIIHPYSDFRFYWDFTMLLFM
+                     VGNLIIIPVGITFFKDETTAPWIVFNVVSDTFFLMDLVLNFRTGIVIEDNTEIILDPEK
+                     IKKKYLRTWFVVDFVSSIPVDYIFLIVEKGIDSEVYKTARALRIVRFTKILSLLRLLRL
+                     SRLIRYIHQWEEIFHMTYDLASAVMRICNLISMMLLLCHWDGCLQFLVPMLQDFPRNCW
+                     VSINGMVNHSWSELYSFALFKAMSHMLCIGYGRQAPESMTDIWLTMLSMIVGATCYAMF
+                     IGHATALIQSLDSSRRQYQEKYKQVEQYMSFHKLPADFRQKIHDYYEHRYQGKMFDEDS
+                     ILGELNGPLREEIVNFNCRKLVASMPLFANADPNFVTAMLTKLKFEVFQPGDYIIREGT
+                     IGKKMYFIQHGVVSVLTKGNKEMKLSDGSYFGEICLLTRGRRTASVRADTYCRLYSLSV
+                     DNFNEVLEEYPMMRRAFETVAIDRLDRIGKKNSILLHKVQHDLNSGVFNNQENAIIQEI
+                     VKYDREMVQQAELGQRVGLFPPPPPPPQVTSAIATLQQAAAMSFCPQVARPLVGPLALG
+                     SPRLVRRPPPGPAPAAASPGPPPPASPPGAPASPRAPRTSPYGGLPAAPLAGPALPARR
+                     LSRASRPLSASQPSLPHGAPGPAASTRPASSSTPRLGPTPAARAAAPSPDRRDSASPGA
+                     AGGLDPQDSARSRLSSNL"
+     my-1_CDS_4      20368..20514
+                     /gene="HCN2"
+                     /gene_synonym="BCNG-2; BCNG2; HAC-1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="potassium/sodium hyperpolarization-activated
+                     cyclic nucleotide-gated channel 2"
+                     /protein_id="NP_001185.3"
+                     /db_xref="CCDS:CCDS12035.1"
+                     /db_xref="GeneID:610"
+                     /db_xref="HGNC:HGNC:4846"
+                     /db_xref="MIM:602781"
+                     /translation="MDARGGGGRPGESPGATPAPGPPPPPPPAPPQQQPPPPPPPAPPP
+                     GPGPAPPQHPPRAEALPPEAADEGGPRGRLRSRDSSCGRPGTPGAASTAKGSPNGECGR
+                     GEPQCSPAGPEGPARGPKVSFSCRGAASGPAPGPGPAEEAGSEEAGPAGEPRGSQASFM
+                     QRQFGALLQPGVNKFSLRMFGSQKAVEREQERVKSAGAWIIHPYSDFRFYWDFTMLLFM
+                     VGNLIIIPVGITFFKDETTAPWIVFNVVSDTFFLMDLVLNFRTGIVIEDNTEIILDPEK
+                     IKKKYLRTWFVVDFVSSIPVDYIFLIVEKGIDSEVYKTARALRIVRFTKILSLLRLLRL
+                     SRLIRYIHQWEEIFHMTYDLASAVMRICNLISMMLLLCHWDGCLQFLVPMLQDFPRNCW
+                     VSINGMVNHSWSELYSFALFKAMSHMLCIGYGRQAPESMTDIWLTMLSMIVGATCYAMF
+                     IGHATALIQSLDSSRRQYQEKYKQVEQYMSFHKLPADFRQKIHDYYEHRYQGKMFDEDS
+                     ILGELNGPLREEIVNFNCRKLVASMPLFANADPNFVTAMLTKLKFEVFQPGDYIIREGT
+                     IGKKMYFIQHGVVSVLTKGNKEMKLSDGSYFGEICLLTRGRRTASVRADTYCRLYSLSV
+                     DNFNEVLEEYPMMRRAFETVAIDRLDRIGKKNSILLHKVQHDLNSGVFNNQENAIIQEI
+                     VKYDREMVQQAELGQRVGLFPPPPPPPQVTSAIATLQQAAAMSFCPQVARPLVGPLALG
+                     SPRLVRRPPPGPAPAAASPGPPPPASPPGAPASPRAPRTSPYGGLPAAPLAGPALPARR
+                     LSRASRPLSASQPSLPHGAPGPAASTRPASSSTPRLGPTPAARAAAPSPDRRDSASPGA
+                     AGGLDPQDSARSRLSSNL"
+     my-1_CDS_5      23357..23597
+                     /gene="HCN2"
+                     /gene_synonym="BCNG-2; BCNG2; HAC-1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="potassium/sodium hyperpolarization-activated
+                     cyclic nucleotide-gated channel 2"
+                     /protein_id="NP_001185.3"
+                     /db_xref="CCDS:CCDS12035.1"
+                     /db_xref="GeneID:610"
+                     /db_xref="HGNC:HGNC:4846"
+                     /db_xref="MIM:602781"
+                     /translation="MDARGGGGRPGESPGATPAPGPPPPPPPAPPQQQPPPPPPPAPPP
+                     GPGPAPPQHPPRAEALPPEAADEGGPRGRLRSRDSSCGRPGTPGAASTAKGSPNGECGR
+                     GEPQCSPAGPEGPARGPKVSFSCRGAASGPAPGPGPAEEAGSEEAGPAGEPRGSQASFM
+                     QRQFGALLQPGVNKFSLRMFGSQKAVEREQERVKSAGAWIIHPYSDFRFYWDFTMLLFM
+                     VGNLIIIPVGITFFKDETTAPWIVFNVVSDTFFLMDLVLNFRTGIVIEDNTEIILDPEK
+                     IKKKYLRTWFVVDFVSSIPVDYIFLIVEKGIDSEVYKTARALRIVRFTKILSLLRLLRL
+                     SRLIRYIHQWEEIFHMTYDLASAVMRICNLISMMLLLCHWDGCLQFLVPMLQDFPRNCW
+                     VSINGMVNHSWSELYSFALFKAMSHMLCIGYGRQAPESMTDIWLTMLSMIVGATCYAMF
+                     IGHATALIQSLDSSRRQYQEKYKQVEQYMSFHKLPADFRQKIHDYYEHRYQGKMFDEDS
+                     ILGELNGPLREEIVNFNCRKLVASMPLFANADPNFVTAMLTKLKFEVFQPGDYIIREGT
+                     IGKKMYFIQHGVVSVLTKGNKEMKLSDGSYFGEICLLTRGRRTASVRADTYCRLYSLSV
+                     DNFNEVLEEYPMMRRAFETVAIDRLDRIGKKNSILLHKVQHDLNSGVFNNQENAIIQEI
+                     VKYDREMVQQAELGQRVGLFPPPPPPPQVTSAIATLQQAAAMSFCPQVARPLVGPLALG
+                     SPRLVRRPPPGPAPAAASPGPPPPASPPGAPASPRAPRTSPYGGLPAAPLAGPALPARR
+                     LSRASRPLSASQPSLPHGAPGPAASTRPASSSTPRLGPTPAARAAAPSPDRRDSASPGA
+                     AGGLDPQDSARSRLSSNL"
+     my-1_CDS_6      23961..24125
+                     /gene="HCN2"
+                     /gene_synonym="BCNG-2; BCNG2; HAC-1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="potassium/sodium hyperpolarization-activated
+                     cyclic nucleotide-gated channel 2"
+                     /protein_id="NP_001185.3"
+                     /db_xref="CCDS:CCDS12035.1"
+                     /db_xref="GeneID:610"
+                     /db_xref="HGNC:HGNC:4846"
+                     /db_xref="MIM:602781"
+                     /translation="MDARGGGGRPGESPGATPAPGPPPPPPPAPPQQQPPPPPPPAPPP
+                     GPGPAPPQHPPRAEALPPEAADEGGPRGRLRSRDSSCGRPGTPGAASTAKGSPNGECGR
+                     GEPQCSPAGPEGPARGPKVSFSCRGAASGPAPGPGPAEEAGSEEAGPAGEPRGSQASFM
+                     QRQFGALLQPGVNKFSLRMFGSQKAVEREQERVKSAGAWIIHPYSDFRFYWDFTMLLFM
+                     VGNLIIIPVGITFFKDETTAPWIVFNVVSDTFFLMDLVLNFRTGIVIEDNTEIILDPEK
+                     IKKKYLRTWFVVDFVSSIPVDYIFLIVEKGIDSEVYKTARALRIVRFTKILSLLRLLRL
+                     SRLIRYIHQWEEIFHMTYDLASAVMRICNLISMMLLLCHWDGCLQFLVPMLQDFPRNCW
+                     VSINGMVNHSWSELYSFALFKAMSHMLCIGYGRQAPESMTDIWLTMLSMIVGATCYAMF
+                     IGHATALIQSLDSSRRQYQEKYKQVEQYMSFHKLPADFRQKIHDYYEHRYQGKMFDEDS
+                     ILGELNGPLREEIVNFNCRKLVASMPLFANADPNFVTAMLTKLKFEVFQPGDYIIREGT
+                     IGKKMYFIQHGVVSVLTKGNKEMKLSDGSYFGEICLLTRGRRTASVRADTYCRLYSLSV
+                     DNFNEVLEEYPMMRRAFETVAIDRLDRIGKKNSILLHKVQHDLNSGVFNNQENAIIQEI
+                     VKYDREMVQQAELGQRVGLFPPPPPPPQVTSAIATLQQAAAMSFCPQVARPLVGPLALG
+                     SPRLVRRPPPGPAPAAASPGPPPPASPPGAPASPRAPRTSPYGGLPAAPLAGPALPARR
+                     LSRASRPLSASQPSLPHGAPGPAASTRPASSSTPRLGPTPAARAAAPSPDRRDSASPGA
+                     AGGLDPQDSARSRLSSNL"
+     my-1_CDS_7      25904..26583
+                     /gene="HCN2"
+                     /gene_synonym="BCNG-2; BCNG2; HAC-1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="potassium/sodium hyperpolarization-activated
+                     cyclic nucleotide-gated channel 2"
+                     /protein_id="NP_001185.3"
+                     /db_xref="CCDS:CCDS12035.1"
+                     /db_xref="GeneID:610"
+                     /db_xref="HGNC:HGNC:4846"
+                     /db_xref="MIM:602781"
+                     /translation="MDARGGGGRPGESPGATPAPGPPPPPPPAPPQQQPPPPPPPAPPP
+                     GPGPAPPQHPPRAEALPPEAADEGGPRGRLRSRDSSCGRPGTPGAASTAKGSPNGECGR
+                     GEPQCSPAGPEGPARGPKVSFSCRGAASGPAPGPGPAEEAGSEEAGPAGEPRGSQASFM
+                     QRQFGALLQPGVNKFSLRMFGSQKAVEREQERVKSAGAWIIHPYSDFRFYWDFTMLLFM
+                     VGNLIIIPVGITFFKDETTAPWIVFNVVSDTFFLMDLVLNFRTGIVIEDNTEIILDPEK
+                     IKKKYLRTWFVVDFVSSIPVDYIFLIVEKGIDSEVYKTARALRIVRFTKILSLLRLLRL
+                     SRLIRYIHQWEEIFHMTYDLASAVMRICNLISMMLLLCHWDGCLQFLVPMLQDFPRNCW
+                     VSINGMVNHSWSELYSFALFKAMSHMLCIGYGRQAPESMTDIWLTMLSMIVGATCYAMF
+                     IGHATALIQSLDSSRRQYQEKYKQVEQYMSFHKLPADFRQKIHDYYEHRYQGKMFDEDS
+                     ILGELNGPLREEIVNFNCRKLVASMPLFANADPNFVTAMLTKLKFEVFQPGDYIIREGT
+                     IGKKMYFIQHGVVSVLTKGNKEMKLSDGSYFGEICLLTRGRRTASVRADTYCRLYSLSV
+                     DNFNEVLEEYPMMRRAFETVAIDRLDRIGKKNSILLHKVQHDLNSGVFNNQENAIIQEI
+                     VKYDREMVQQAELGQRVGLFPPPPPPPQVTSAIATLQQAAAMSFCPQVARPLVGPLALG
+                     SPRLVRRPPPGPAPAAASPGPPPPASPPGAPASPRAPRTSPYGGLPAAPLAGPALPARR
+                     LSRASRPLSASQPSLPHGAPGPAASTRPASSSTPRLGPTPAARAAAPSPDRRDSASPGA
+                     AGGLDPQDSARSRLSSNL"
+     my-5_CDS_0      complement(31373..>31821)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X2"
+                     /protein_id="XP_005259638.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFIHSLDSS
+                     HMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVCREQFVRLHSEPILQD
+                     LSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRSTYFFS"
+     my-5_CDS_1      complement(28597..28654)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X2"
+                     /protein_id="XP_005259638.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFIHSLDSS
+                     HMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVCREQFVRLHSEPILQD
+                     LSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRSTYFFS"
+     my-5_CDS_2      complement(27886..27979)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X2"
+                     /protein_id="XP_005259638.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFIHSLDSS
+                     HMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVCREQFVRLHSEPILQD
+                     LSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRSTYFFS"
+     my-5_CDS_3      complement(27679..27764)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X2"
+                     /protein_id="XP_005259638.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFIHSLDSS
+                     HMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVCREQFVRLHSEPILQD
+                     LSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRSTYFFS"
+     my-5_CDS_4      complement(27528..27589)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X2"
+                     /protein_id="XP_005259638.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFIHSLDSS
+                     HMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVCREQFVRLHSEPILQD
+                     LSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRSTYFFS"
+     my-5_CDS_5      complement(27383..27432)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X2"
+                     /protein_id="XP_005259638.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFIHSLDSS
+                     HMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVCREQFVRLHSEPILQD
+                     LSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRSTYFFS"
+     my-6_CDS_0      complement(31167..>31821)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X1"
+                     /protein_id="XP_005259637.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFNHLGSDV
+                     ARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDILDSADQPL
+                     TGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQHYAALGRDS
+                     VGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKVVKQTVMTV
+                     VYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTRAIQHWLTE
+                     SARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDISRKPNTRKQ
+                     KNGFPPNFIHSLDSSHMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVC
+                     REQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRST
+                     YFFS"
+     my-6_CDS_1      complement(30474..30596)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X1"
+                     /protein_id="XP_005259637.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFNHLGSDV
+                     ARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDILDSADQPL
+                     TGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQHYAALGRDS
+                     VGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKVVKQTVMTV
+                     VYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTRAIQHWLTE
+                     SARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDISRKPNTRKQ
+                     KNGFPPNFIHSLDSSHMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVC
+                     REQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRST
+                     YFFS"
+     my-6_CDS_2      complement(30067..30189)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X1"
+                     /protein_id="XP_005259637.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFNHLGSDV
+                     ARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDILDSADQPL
+                     TGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQHYAALGRDS
+                     VGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKVVKQTVMTV
+                     VYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTRAIQHWLTE
+                     SARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDISRKPNTRKQ
+                     KNGFPPNFIHSLDSSHMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVC
+                     REQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRST
+                     YFFS"
+     my-6_CDS_3      complement(29695..29874)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X1"
+                     /protein_id="XP_005259637.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFNHLGSDV
+                     ARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDILDSADQPL
+                     TGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQHYAALGRDS
+                     VGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKVVKQTVMTV
+                     VYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTRAIQHWLTE
+                     SARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDISRKPNTRKQ
+                     KNGFPPNFIHSLDSSHMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVC
+                     REQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRST
+                     YFFS"
+     my-6_CDS_4      complement(29319..29405)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X1"
+                     /protein_id="XP_005259637.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFNHLGSDV
+                     ARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDILDSADQPL
+                     TGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQHYAALGRDS
+                     VGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKVVKQTVMTV
+                     VYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTRAIQHWLTE
+                     SARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDISRKPNTRKQ
+                     KNGFPPNFIHSLDSSHMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVC
+                     REQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRST
+                     YFFS"
+     my-6_CDS_5      complement(29106..29219)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X1"
+                     /protein_id="XP_005259637.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFNHLGSDV
+                     ARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDILDSADQPL
+                     TGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQHYAALGRDS
+                     VGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKVVKQTVMTV
+                     VYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTRAIQHWLTE
+                     SARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDISRKPNTRKQ
+                     KNGFPPNFIHSLDSSHMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVC
+                     REQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRST
+                     YFFS"
+     my-6_CDS_6      complement(28814..28869)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X1"
+                     /protein_id="XP_005259637.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFNHLGSDV
+                     ARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDILDSADQPL
+                     TGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQHYAALGRDS
+                     VGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKVVKQTVMTV
+                     VYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTRAIQHWLTE
+                     SARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDISRKPNTRKQ
+                     KNGFPPNFIHSLDSSHMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVC
+                     REQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRST
+                     YFFS"
+     my-6_CDS_7      complement(28597..28695)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X1"
+                     /protein_id="XP_005259637.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFNHLGSDV
+                     ARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDILDSADQPL
+                     TGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQHYAALGRDS
+                     VGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKVVKQTVMTV
+                     VYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTRAIQHWLTE
+                     SARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDISRKPNTRKQ
+                     KNGFPPNFIHSLDSSHMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVC
+                     REQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRST
+                     YFFS"
+     my-6_CDS_8      complement(27886..27979)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X1"
+                     /protein_id="XP_005259637.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFNHLGSDV
+                     ARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDILDSADQPL
+                     TGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQHYAALGRDS
+                     VGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKVVKQTVMTV
+                     VYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTRAIQHWLTE
+                     SARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDISRKPNTRKQ
+                     KNGFPPNFIHSLDSSHMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVC
+                     REQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRST
+                     YFFS"
+     my-6_CDS_9      complement(27679..27764)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X1"
+                     /protein_id="XP_005259637.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFNHLGSDV
+                     ARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDILDSADQPL
+                     TGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQHYAALGRDS
+                     VGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKVVKQTVMTV
+                     VYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTRAIQHWLTE
+                     SARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDISRKPNTRKQ
+                     KNGFPPNFIHSLDSSHMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVC
+                     REQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRST
+                     YFFS"
+     my-6_CDS_10     complement(27528..27589)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X1"
+                     /protein_id="XP_005259637.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFNHLGSDV
+                     ARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDILDSADQPL
+                     TGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQHYAALGRDS
+                     VGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKVVKQTVMTV
+                     VYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTRAIQHWLTE
+                     SARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDISRKPNTRKQ
+                     KNGFPPNFIHSLDSSHMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVC
+                     REQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRST
+                     YFFS"
+     my-6_CDS_11     complement(27383..27432)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     isoform X1"
+                     /protein_id="XP_005259637.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MPSRLRCILGVYFRLGFPFAASVDHETTTPGRRRGRMRRRGPVGW
+                     PGAACVMSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSASPQEQDQDR
+                     RKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPPRKVQMGAK
+                     DATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVEPRLLSKQM
+                     AGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQQQRLLAFF
+                     KCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELVYVLFMVKD
+                     AGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLSEEDRATVL
+                     KAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCLFEKQLHME
+                     LASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLEREVYEGRFS
+                     LYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQRVSGQVQA
+                     LQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELGKLLAEMLV
+                     QATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAAEPTLTFEA
+                     VDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHGALDALTQL
+                     GNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPARKAELRRE
+                     LAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPHFNHLGSDV
+                     ARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDILDSADQPL
+                     TGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQHYAALGRDS
+                     VGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKVVKQTVMTV
+                     VYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTRAIQHWLTE
+                     SARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDISRKPNTRKQ
+                     KNGFPPNFIHSLDSSHMMLTALHCYRSPPLCHRKGLTFVSVHDCYWTHAADVSVMNQVC
+                     REQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRST
+                     YFFS"
+     my-7_CDS_0      complement(31167..>31821)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     precursor"
+                     /protein_id="NP_005026.3"
+                     /db_xref="CCDS:CCDS12036.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSAS
+                     PQEQDQDRRKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPP
+                     RKVQMGAKDATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVE
+                     PRLLSKQMAGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQ
+                     QQRLLAFFKCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELV
+                     YVLFMVKDAGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLS
+                     EEDRATVLKAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCL
+                     FEKQLHMELASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLER
+                     EVYEGRFSLYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQ
+                     RVSGQVQALQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELG
+                     KLLAEMLVQATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAA
+                     EPTLTFEAVDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHG
+                     ALDALTQLGNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPA
+                     RKAELRRELAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPH
+                     FNHLGSDVARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDI
+                     LDSADQPLTGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQH
+                     YAALGRDSVGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKV
+                     VKQTVMTVVYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTR
+                     AIQHWLTESARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDIS
+                     RKPNTRKQKNGFPPNFIHSLDSSHMMLTALHCYRKGLTFVSVHDCYWTHAADVSVMNQV
+                     CREQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRS
+                     TYFFS"
+     my-7_CDS_1      complement(30474..30596)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     precursor"
+                     /protein_id="NP_005026.3"
+                     /db_xref="CCDS:CCDS12036.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSAS
+                     PQEQDQDRRKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPP
+                     RKVQMGAKDATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVE
+                     PRLLSKQMAGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQ
+                     QQRLLAFFKCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELV
+                     YVLFMVKDAGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLS
+                     EEDRATVLKAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCL
+                     FEKQLHMELASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLER
+                     EVYEGRFSLYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQ
+                     RVSGQVQALQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELG
+                     KLLAEMLVQATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAA
+                     EPTLTFEAVDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHG
+                     ALDALTQLGNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPA
+                     RKAELRRELAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPH
+                     FNHLGSDVARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDI
+                     LDSADQPLTGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQH
+                     YAALGRDSVGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKV
+                     VKQTVMTVVYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTR
+                     AIQHWLTESARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDIS
+                     RKPNTRKQKNGFPPNFIHSLDSSHMMLTALHCYRKGLTFVSVHDCYWTHAADVSVMNQV
+                     CREQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRS
+                     TYFFS"
+     my-7_CDS_2      complement(30067..30189)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     precursor"
+                     /protein_id="NP_005026.3"
+                     /db_xref="CCDS:CCDS12036.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSAS
+                     PQEQDQDRRKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPP
+                     RKVQMGAKDATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVE
+                     PRLLSKQMAGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQ
+                     QQRLLAFFKCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELV
+                     YVLFMVKDAGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLS
+                     EEDRATVLKAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCL
+                     FEKQLHMELASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLER
+                     EVYEGRFSLYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQ
+                     RVSGQVQALQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELG
+                     KLLAEMLVQATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAA
+                     EPTLTFEAVDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHG
+                     ALDALTQLGNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPA
+                     RKAELRRELAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPH
+                     FNHLGSDVARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDI
+                     LDSADQPLTGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQH
+                     YAALGRDSVGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKV
+                     VKQTVMTVVYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTR
+                     AIQHWLTESARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDIS
+                     RKPNTRKQKNGFPPNFIHSLDSSHMMLTALHCYRKGLTFVSVHDCYWTHAADVSVMNQV
+                     CREQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRS
+                     TYFFS"
+     my-7_CDS_3      complement(29695..29874)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     precursor"
+                     /protein_id="NP_005026.3"
+                     /db_xref="CCDS:CCDS12036.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSAS
+                     PQEQDQDRRKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPP
+                     RKVQMGAKDATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVE
+                     PRLLSKQMAGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQ
+                     QQRLLAFFKCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELV
+                     YVLFMVKDAGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLS
+                     EEDRATVLKAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCL
+                     FEKQLHMELASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLER
+                     EVYEGRFSLYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQ
+                     RVSGQVQALQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELG
+                     KLLAEMLVQATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAA
+                     EPTLTFEAVDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHG
+                     ALDALTQLGNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPA
+                     RKAELRRELAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPH
+                     FNHLGSDVARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDI
+                     LDSADQPLTGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQH
+                     YAALGRDSVGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKV
+                     VKQTVMTVVYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTR
+                     AIQHWLTESARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDIS
+                     RKPNTRKQKNGFPPNFIHSLDSSHMMLTALHCYRKGLTFVSVHDCYWTHAADVSVMNQV
+                     CREQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRS
+                     TYFFS"
+     my-7_CDS_4      complement(29319..29405)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     precursor"
+                     /protein_id="NP_005026.3"
+                     /db_xref="CCDS:CCDS12036.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSAS
+                     PQEQDQDRRKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPP
+                     RKVQMGAKDATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVE
+                     PRLLSKQMAGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQ
+                     QQRLLAFFKCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELV
+                     YVLFMVKDAGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLS
+                     EEDRATVLKAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCL
+                     FEKQLHMELASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLER
+                     EVYEGRFSLYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQ
+                     RVSGQVQALQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELG
+                     KLLAEMLVQATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAA
+                     EPTLTFEAVDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHG
+                     ALDALTQLGNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPA
+                     RKAELRRELAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPH
+                     FNHLGSDVARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDI
+                     LDSADQPLTGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQH
+                     YAALGRDSVGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKV
+                     VKQTVMTVVYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTR
+                     AIQHWLTESARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDIS
+                     RKPNTRKQKNGFPPNFIHSLDSSHMMLTALHCYRKGLTFVSVHDCYWTHAADVSVMNQV
+                     CREQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRS
+                     TYFFS"
+     my-7_CDS_5      complement(29106..29219)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     precursor"
+                     /protein_id="NP_005026.3"
+                     /db_xref="CCDS:CCDS12036.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSAS
+                     PQEQDQDRRKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPP
+                     RKVQMGAKDATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVE
+                     PRLLSKQMAGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQ
+                     QQRLLAFFKCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELV
+                     YVLFMVKDAGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLS
+                     EEDRATVLKAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCL
+                     FEKQLHMELASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLER
+                     EVYEGRFSLYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQ
+                     RVSGQVQALQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELG
+                     KLLAEMLVQATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAA
+                     EPTLTFEAVDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHG
+                     ALDALTQLGNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPA
+                     RKAELRRELAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPH
+                     FNHLGSDVARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDI
+                     LDSADQPLTGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQH
+                     YAALGRDSVGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKV
+                     VKQTVMTVVYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTR
+                     AIQHWLTESARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDIS
+                     RKPNTRKQKNGFPPNFIHSLDSSHMMLTALHCYRKGLTFVSVHDCYWTHAADVSVMNQV
+                     CREQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRS
+                     TYFFS"
+     my-7_CDS_6      complement(28814..28869)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     precursor"
+                     /protein_id="NP_005026.3"
+                     /db_xref="CCDS:CCDS12036.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSAS
+                     PQEQDQDRRKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPP
+                     RKVQMGAKDATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVE
+                     PRLLSKQMAGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQ
+                     QQRLLAFFKCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELV
+                     YVLFMVKDAGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLS
+                     EEDRATVLKAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCL
+                     FEKQLHMELASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLER
+                     EVYEGRFSLYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQ
+                     RVSGQVQALQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELG
+                     KLLAEMLVQATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAA
+                     EPTLTFEAVDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHG
+                     ALDALTQLGNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPA
+                     RKAELRRELAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPH
+                     FNHLGSDVARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDI
+                     LDSADQPLTGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQH
+                     YAALGRDSVGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKV
+                     VKQTVMTVVYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTR
+                     AIQHWLTESARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDIS
+                     RKPNTRKQKNGFPPNFIHSLDSSHMMLTALHCYRKGLTFVSVHDCYWTHAADVSVMNQV
+                     CREQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRS
+                     TYFFS"
+     my-7_CDS_7      complement(28597..28695)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     precursor"
+                     /protein_id="NP_005026.3"
+                     /db_xref="CCDS:CCDS12036.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSAS
+                     PQEQDQDRRKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPP
+                     RKVQMGAKDATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVE
+                     PRLLSKQMAGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQ
+                     QQRLLAFFKCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELV
+                     YVLFMVKDAGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLS
+                     EEDRATVLKAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCL
+                     FEKQLHMELASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLER
+                     EVYEGRFSLYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQ
+                     RVSGQVQALQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELG
+                     KLLAEMLVQATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAA
+                     EPTLTFEAVDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHG
+                     ALDALTQLGNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPA
+                     RKAELRRELAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPH
+                     FNHLGSDVARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDI
+                     LDSADQPLTGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQH
+                     YAALGRDSVGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKV
+                     VKQTVMTVVYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTR
+                     AIQHWLTESARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDIS
+                     RKPNTRKQKNGFPPNFIHSLDSSHMMLTALHCYRKGLTFVSVHDCYWTHAADVSVMNQV
+                     CREQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRS
+                     TYFFS"
+     my-7_CDS_8      complement(27886..27958)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     precursor"
+                     /protein_id="NP_005026.3"
+                     /db_xref="CCDS:CCDS12036.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSAS
+                     PQEQDQDRRKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPP
+                     RKVQMGAKDATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVE
+                     PRLLSKQMAGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQ
+                     QQRLLAFFKCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELV
+                     YVLFMVKDAGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLS
+                     EEDRATVLKAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCL
+                     FEKQLHMELASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLER
+                     EVYEGRFSLYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQ
+                     RVSGQVQALQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELG
+                     KLLAEMLVQATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAA
+                     EPTLTFEAVDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHG
+                     ALDALTQLGNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPA
+                     RKAELRRELAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPH
+                     FNHLGSDVARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDI
+                     LDSADQPLTGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQH
+                     YAALGRDSVGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKV
+                     VKQTVMTVVYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTR
+                     AIQHWLTESARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDIS
+                     RKPNTRKQKNGFPPNFIHSLDSSHMMLTALHCYRKGLTFVSVHDCYWTHAADVSVMNQV
+                     CREQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRS
+                     TYFFS"
+     my-7_CDS_9      complement(27679..27764)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     precursor"
+                     /protein_id="NP_005026.3"
+                     /db_xref="CCDS:CCDS12036.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSAS
+                     PQEQDQDRRKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPP
+                     RKVQMGAKDATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVE
+                     PRLLSKQMAGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQ
+                     QQRLLAFFKCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELV
+                     YVLFMVKDAGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLS
+                     EEDRATVLKAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCL
+                     FEKQLHMELASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLER
+                     EVYEGRFSLYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQ
+                     RVSGQVQALQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELG
+                     KLLAEMLVQATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAA
+                     EPTLTFEAVDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHG
+                     ALDALTQLGNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPA
+                     RKAELRRELAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPH
+                     FNHLGSDVARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDI
+                     LDSADQPLTGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQH
+                     YAALGRDSVGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKV
+                     VKQTVMTVVYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTR
+                     AIQHWLTESARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDIS
+                     RKPNTRKQKNGFPPNFIHSLDSSHMMLTALHCYRKGLTFVSVHDCYWTHAADVSVMNQV
+                     CREQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRS
+                     TYFFS"
+     my-7_CDS_10     complement(27528..27589)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     precursor"
+                     /protein_id="NP_005026.3"
+                     /db_xref="CCDS:CCDS12036.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSAS
+                     PQEQDQDRRKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPP
+                     RKVQMGAKDATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVE
+                     PRLLSKQMAGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQ
+                     QQRLLAFFKCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELV
+                     YVLFMVKDAGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLS
+                     EEDRATVLKAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCL
+                     FEKQLHMELASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLER
+                     EVYEGRFSLYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQ
+                     RVSGQVQALQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELG
+                     KLLAEMLVQATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAA
+                     EPTLTFEAVDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHG
+                     ALDALTQLGNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPA
+                     RKAELRRELAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPH
+                     FNHLGSDVARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDI
+                     LDSADQPLTGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQH
+                     YAALGRDSVGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKV
+                     VKQTVMTVVYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTR
+                     AIQHWLTESARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDIS
+                     RKPNTRKQKNGFPPNFIHSLDSSHMMLTALHCYRKGLTFVSVHDCYWTHAADVSVMNQV
+                     CREQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRS
+                     TYFFS"
+     my-7_CDS_11     complement(27383..27432)
+                     /gene="POLRMT"
+                     /gene_synonym="APOLMT; h-mtRPOL; MTRNAP; MTRPOL"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase, mitochondrial
+                     precursor"
+                     /protein_id="NP_005026.3"
+                     /db_xref="CCDS:CCDS12036.1"
+                     /db_xref="GeneID:5442"
+                     /db_xref="HGNC:HGNC:9200"
+                     /db_xref="MIM:601778"
+                     /translation="MSALCWGRGAAGLKRALRPCGRPGLPGKEGTAGGVCGPRRSSSAS
+                     PQEQDQDRRKDWGHVELLEVLQARVRQLQAESVSEVVVNRVDVARLPECGSGDGSLQPP
+                     RKVQMGAKDATPVPCGRWAKILEKDKRTQQMRMQRLKAKLQMPFQSGEFKALTRRLQVE
+                     PRLLSKQMAGCLEDCTRQAPESPWEEQLARLLQEAPGKLSLDVEQAPSGQHSQAQLSGQ
+                     QQRLLAFFKCCLLTDQLPLAHHLLVVHHGQRQKRKLLTLDMYNAVMLGWARQGAFKELV
+                     YVLFMVKDAGLTPDLLSYAAALQCMGRQDQDAGTIERCLEQMSQEGLKLQALFTAVLLS
+                     EEDRATVLKAVHKVKPTFSLPPQLPPPVNTSKLLRDVYAKDGRVSYPKLHLPLKTLQCL
+                     FEKQLHMELASRVCVVSVEKPTLPSKEVKHARKTLKTLRDQWEKALCRALRETKNRLER
+                     EVYEGRFSLYPFLCLLDEREVVRMLLQVLQALPAQGESFTTLARELSARTFSRHVVQRQ
+                     RVSGQVQALQNHYRKYLCLLASDAEVPEPCLPRQYWEELGAPEALREQPWPLPVQMELG
+                     KLLAEMLVQATQMPCSLDKPHRSSRLVPVLYHVYSFRNVQQIGILKPHPAYVQLLEKAA
+                     EPTLTFEAVDVPMLCPPLPWTSPHSGAFLLSPTKLMRTVEGATQHQELLETCPPTALHG
+                     ALDALTQLGNCAWRVNGRVLDLVLQLFQAKGCPQLGVPAPPSEAPQPPEAHLPHSAAPA
+                     RKAELRRELAHCQKVAREMHSLRAEALYRLSLAQHLRDRVFWLPHNMDFRGRTYPCPPH
+                     FNHLGSDVARALLEFAQGRPLGPHGLDWLKIHLVNLTGLKKREPLRKRLAFAEEVMDDI
+                     LDSADQPLTGRKWWMGAEEPWQTLACCMEVANAVRASDPAAYVSHLPVHQDGSCNGLQH
+                     YAALGRDSVGAASVNLEPSDVPQDVYSGVAAQVEVFRRQDAQRGMRVAQVLEGFITRKV
+                     VKQTVMTVVYGVTRYGGRLQIEKRLRELSDFPQEFVWEASHYLVRQVFKSLQEMFSGTR
+                     AIQHWLTESARLISHMGSVVEWVTPLGVPVIQPYRLDSKVKQIGGGIQSITYTHNGDIS
+                     RKPNTRKQKNGFPPNFIHSLDSSHMMLTALHCYRKGLTFVSVHDCYWTHAADVSVMNQV
+                     CREQFVRLHSEPILQDLSRFLVKRFCSEPQKILEASQLKETLQAVPKPGAFDLEQVKRS
+                     TYFFS"
+ORIGIN
+        1 cggccggcgg cggcggcggc ggctccgctc cgcactgccc ggcgccgcct cgccatggac
+       61 gcgcgcgggg gcggcgggcg gcccggggag agcccgggcg cgacccccgc gccggggccg
+      121 ccgccgccgc cgccgcccgc gcccccccaa cagcagccgc cgccgccgcc gccgcccgcg
+      181 ccccccccgg gccccgggcc cgcgcccccc cagcacccgc cccgggccga ggcgttgccc
+      241 ccggaggcgg cggatgaggg cggcccgcgg ggccggctcc gcagccgcga cagctcgtgc
+      301 ggccgccccg gcaccccggg cgcggcgagc acggccaagg gcagcccgaa cggcgagtgc
+      361 gggcgcggcg agccgcagtg cagccccgcg gggcccgagg gcccggcgcg ggggcccaag
+      421 gtgtcgttct cgtgccgcgg ggcggcctcg gggcccgcgc cggggccggg gccggcggag
+      481 gaggcgggca gcgaggaggc gggcccggcg ggggagccgc gcggcagcca ggccagcttc
+      541 atgcagcgcc agttcggcgc gctcctgcag ccgggcgtca acaagttctc gctgcggatg
+      601 ttcggcagcc agaaggccgt ggagcgcgag caggagcgcg tcaagtcggc gggggcctgg
+      661 atcatccacc cgtacagcga cttcaggtac cgcctccggg agggccggtc ggcgcgaggg
+      721 ggcccgggga gccgggcgcg cggggagccg tccttggagc gcctggggag ggcggggcgg
+      781 cgcgccgggc cggtgacctc ggggctcctc ggtgacctcg ggcgtgtccg ggacccgccc
+      841 cggagtgacc ccggcgcgcg aggctccgcc tctggggggg ctccccgggt gaccgcggag
+      901 cgcccccctc ccacgcaccc cgacatcctc cgccctgcgg cgcggcgggt ggggtgggcc
+      961 gcagggccag ggtctgagcg cagaggggca gagaggacga atagagggga acgtgggccc
+     1021 cagagaggcg gcggagcggg agggaggagg aacgaagggc gcccgggaag gacgcgcccc
+     1081 agggaggccg ggggagaggg ggttaagcgg ctcccacggc gtccacccgc gccccgcctg
+     1141 cgaggaggcg cgcccggggc cgcgggcctg gaaagcgtgc gggtccccag gctgtgtccc
+     1201 cgggagccgc tccacccgag ccgcgggcgg tgcgcgcatg cggcggtggg tgtgtagacg
+     1261 ccgctgtgga tccagccggc taatgcgtgg aaggctcgga gcagggccgg cgcggggcca
+     1321 ccgccactga tgtttgcggt cgtggttcct gggctgtgcg tgctgtggcc ggagagcgag
+     1381 accggcgcgt gtccccgtgg gctgtgtgtg aacaggggcc cgtgaccgcg gcggggttcc
+     1441 cggggcgcga gcctgtggcc ggagaggtgt gtctccagga gtgtgtttgc gtggtggtcg
+     1501 cgggcgtgtg cgcctccggt gggtttattt tggtgggacg tgtggtttgt gtgtgttggg
+     1561 accaggtggc gggcgtgcgc gtgtacgccc ggggccggtg tgcaccggtg ggcagtagtg
+     1621 tgagccgcag gcaggtctca cacacgcgac catggaggga tgcgtgtgtg tttgtgtatc
+     1681 cacgagtggg gtgtgaggtg gggtgtggag ggtgcaggtg gagggtgtag gtggggcccg
+     1741 ccgggctagc gaggccgggc gcgcgggacg ggcgcggttt cagcaccacg gacagcgcgc
+     1801 cggacctggg aagcctgcgg ttttcccgcc tgtctctcct cctccaggcc tgggcgcccc
+     1861 aggacagccc ccacggaccc tggacccccg gaactgggca gggaggctgt ggggttctct
+     1921 cttcccctgg attctctgca cccctagtgc ttgactggag aaactgaggc ctggggcaca
+     1981 tgcgtcctgg acagagcctg gaggaaggcc ctggaatcct cctcccaccc caggccttcc
+     2041 tgagaggtga atacagcttt gaccagaagc ctggatttcg agacaggcca ggggtgggag
+     2101 gagccccgaa atccccagag gggctgtgtc cggcccctcc caccctgcct ctgtgcccca
+     2161 ccgggagagc ttggtcagca tctgggctct ggcctgcgaa atgtggacag tgagcgggaa
+     2221 ggactggact tccagggctg ctggtcggcc tggccccact tccagtcggg cagtggcacc
+     2281 ccctgaccgg agagggacgc ggtggagagg gagctgtaga acgtgcccac tcccctccgt
+     2341 cccctccagc atgaccttcg acagagatgg gtgcaccgca gcgtgggggc tggcaggtgg
+     2401 aggcccacac cagccactcc ctcccctggg cagctccagc gaccccctgg ctgcagaggg
+     2461 gcggtcggtg gcctgggggg caggtgggca gatggctgat cccggggctt ggggggaagg
+     2521 ccggtggtag gagtgaagcc ctctcatcct tccaccctcc ttgggcgtgg tcgcctggag
+     2581 gcctgggcag gctgtggccc cgctctgtgc tctgaggcat agagggctca gaggcccctg
+     2641 tgtggaccaa gtgcagcccc accccggcag atgagtgttg aagtggaact gagcaggcag
+     2701 ggaatggggt tagcggggcc tgtcttcggg actaggggag tcacggcagt cagattttaa
+     2761 aaaaggattt cgatgttgcc aagctgggtg cacggggccc ctaggaccct ccccaggctt
+     2821 gggacctgtg ccagtgtgga atcagtgtgg aaaaagaccc ccaagaatat ctcaaaagct
+     2881 ccctaagcag gcggccggac cctgctgtgg agggtgtttt ggggcagccc acagcaagcg
+     2941 aaggggcctc tacgtttgca gctgactcag gagcctggcc ccaactggct tcgggcccaa
+     3001 ggcctcctgt gcctggctgg gtgtcttggg tcctcgctgg gcccctctgc ctcagtttcc
+     3061 ccaattgcac ggtggggatg gtatgaggga gaaggatggg gtctttcaca gccttgccag
+     3121 tgtctcagcc tcacgtctca cactctcttc acctcccctt cctgctgaga gagtgctgtg
+     3181 ctccttgccc agcctgtgcc ccccaggcac gccctcaccc cggttcttcc tcgctgccca
+     3241 gctgtctccg ccacgcccaa gtccaccctg ctcccgtgct cggaagtggc ctctttcacg
+     3301 ccccacgtcc cagtcccagt atacagcagg tgccacatat ttgctgaatt ttctgagggg
+     3361 cagagcatgg gtcctgggct gacgtgggtc cagatttcgg ctctcaggcc tgggcggctg
+     3421 gcccctttgg aagtgcagtt ggtgccaggg tgcagcggct cacgcctgag atcccagcac
+     3481 tttgggaggc tgaggcgggc ggatcacctg aggtcaggag ttcgagagca gcctggccaa
+     3541 catggtgaga tgatcccgtc tctactaaaa atgcaaaaat tagctgggca tcgtgacgag
+     3601 cgcctgtaat cccagctact cgggaggctg aggcaggaga atcacttgaa tccaggaggc
+     3661 agaggttgca gtgagccgag atcgcgctgc tgcactccag cctggctgac agagtgggac
+     3721 ttggtctcaa aaaaaaagaa aaggaagaag aagtgcagtt ggtctattgc tgaagtctct
+     3781 ggggctgtgg gtggctctac accccggcct gacgtctgaa agtccccaga ggcatgctgg
+     3841 gcgcttccct ggggtgctgg tggaagagca agttcaagga cccaagttca aggttttggg
+     3901 ttccagaggc tcaagttccc ttccttgtag gtgatcacgg ttggtgcctg aattggaaca
+     3961 ggcgtgaaaa ccaagaagga aggggtttgg ccttatgcaa cccccagggc ttcggcaggg
+     4021 tcttctgtgc ctcccagagc aaaattaggt caaaaataag tatagttcat tcctactccc
+     4081 ttcaccccag ccgccgctga ttctaaaggc cacacaggtc cacttgggaa agcctgagtc
+     4141 gtgcaaagga gggtgtctcc gcaggagagg ggcaggggct ggaggtctct gcacgagaag
+     4201 ggctggggct ggagggtgtc tccgcaggag aggggctggg gctggagggg acacgaaggc
+     4261 ccagggaggg gcggtctgag gaggtcgcgt tctccgaagc ttgctgtcat ccaccctccc
+     4321 tgcccccggt gtcaccgagg gggctgggca gacctggcgg ggtggagacc tgggcagatc
+     4381 cggggtttgt gccctgggag ctctgggggg cacagggcag gtgtcgggtg gagagaggct
+     4441 ggcggcttcc tgactgccct cggtccagtt ccagggctaa gtgccctgtg gccgccctgc
+     4501 cgtctcctgc tgctgctgac ttgcaggtct gtgtttctga attgtcttca gctggggagg
+     4561 ccccgtgtga ggggagacag acgagatgct ccccaaagcc aggatctgtt atgtcccctg
+     4621 gggtccccga gaggactggt cggggaggag ctgctccaag accccaccag gacaggcggc
+     4681 ccctgggccc cgcctcagat ggctgagtgg gtcagcggga gatcagcctg ggggtgcagc
+     4741 tctgcaaatc cgcagtgatg aatcccagca ttagggcgtg ggaataaacc ccccattatc
+     4801 ctggggggat ggccccgggg gcagggcgag gcgagggttt gtctggctct ggtcacggca
+     4861 ggaaggccca gcgtgtgcag gatggtgggg tgtgcatgga cccatatccc aggtggcggt
+     4921 ggcctgccct ctggtctgcg tggaggggtc aggggtcggg gtggccaagg cctccccgct
+     4981 ctcttcaggg ccttccctat gttccctgct cgaaaacgga catctttgtc caggcactgt
+     5041 ggctcatgcc tgtaatgcca gtactttggg aggcggaggc gggaggatcg cttgagccca
+     5101 ggagttcgag accagcctgg gcaacatagc aagaccccca tctctacaaa aagttaaaaa
+     5161 attagccagg cgtggtggcg tgcacctgta gtcccagcta ctctggaggc tgaggcggga
+     5221 ggatcacctg agcccaggag gttgaggctg cagtgagcta tgatcgtgcc actgcactcc
+     5281 ggcccgggaa acagagtgag accctgtctc aaaaaaataa aaaaaaccta aaaacccaca
+     5341 tattcaagtc accttcatca gccccccact cacttgggcc gggccctgcc tcacccccca
+     5401 ccccacggtt cagcctcgca ccctgtgcgc tggccgcctc tctcctgcca gatgcctccc
+     5461 cgtccccctt tctggcctcc cggctgtcag catgggcctc tccagacatc ggtccttctt
+     5521 tccctgtcac ctctacctcc tccctggctc cagccctccc cagtcatgtc ccctggtccc
+     5581 gaggccgccc accggccttg aagggaaccc ggagcatcaa cctccgcacc tgctgcccct
+     5641 cttcagccac tgccctcccc tcaccatctc atccacccac acgccacctc ctccaaggag
+     5701 ccctcccacc tgcctggggc tgacaggccc atcccatgtg tctgtcttgg ggctgggcct
+     5761 gtgtggtcat cgtgtgcccc ggcgcccggc gagagttcgg tgaacatctg ccccgtcggg
+     5821 atcacccggg aacccgagat ctcccccacc cgtagcagct ccctttctta atcctgggca
+     5881 cctgccacgg atctggccat gactccacag ctgagagtgc cgtctcctaa tcccccggcc
+     5941 cgaggctctc ccttaatcac cgacctccgg cccctaatcc tctcccggat tgtccccatc
+     6001 tgtaaatcct ggacggcctc cggcctgagg ctgggctcct gcggggaggg cctggctgcc
+     6061 ctcgcccgtt ccccaacccg ggactcaggc tccagcaggg gctgaagacc ccctgggcag
+     6121 gccctcccct gggatccaag gggctgaggg tcctgggcct tctgttgcca ggagacctgg
+     6181 tgtcctcgtg gggtttggga gccgggtcgg cggcctcctc ccccaagctt catccagccc
+     6241 tggagagacg gggacctgcg tcggctttgg gaacttcagg ggaagaaccc tgagctcggg
+     6301 gcaggagaat gacatggtct gtctgggttc ccatcccact gtttcactta tggctggagg
+     6361 agcctcagtt tccgtgtcag agccgagaga gaggctgggc ggctgttgga ggagggctga
+     6421 gctcacatcg gtgtcaggtg ccgggggccc cactgaagcc actctggagt gagagggggt
+     6481 ccgaggcttc ttccggtccc ccaggtgtga gagctgaggc cggaaggttt ccccagggac
+     6541 ccagcctcat cccggcctcc ggagctggtc tccctccctg cctgcgaggg ccaagctgga
+     6601 caaagtggca ggacccccgc gtttccgagg aaggggccct cgtagaggcc tcactgttac
+     6661 ctgtcgggga tgggttttaa atacaggatt taatgatggt cactgatgtt tctgtgacag
+     6721 ctgagggggg cctgtccctg ctcagcactg gggttggaca aggagggcac agggtgcccg
+     6781 gggagtgctg gggcccgcct gggtccctat ggtggccgga tggggaaagg gctgccggac
+     6841 gcggctgcac agagtgtgag ggggagtggg gttgggcttt gggccttccc ctgaccccag
+     6901 gtcccctctc tggggtcctg tcttctggag ctgcctcccc ctccccaggg cgagaggcag
+     6961 gagagggtct cccaaggtca ctcagtctag tgttgggcaa ggagagggtt ggggtggaga
+     7021 gggttggggt gcaccggcag agacagtgac gccctgcagg gctctggggt cccctctgcc
+     7081 ccaggcctcg gtttcccctt ggtaggggac atgcgtgggc gcccttcttc cttctgacct
+     7141 ctggctggtg acgacgaggg ttgcggcccc aagccctgct tggaggcatt gtggttggaa
+     7201 cgggcaggcc cagccccaca agggaccctc agggtggcca ccccacctgt cccttctcct
+     7261 aggcccctct gctctgaccc ccgtaatccc caggaatact gccctgctgg gcaagatggg
+     7321 ctgaggagtc ctttctgggg acacaggagc agaaggctca agggaggtgg tttccagaca
+     7381 gtgtgggccg tggataagag gacagtcctg gggtctcatc ctgcagtccc acttccatca
+     7441 gaggggaggt gtggtacctg cccccagctc accccaagaa taaaggggga gaatgtctgt
+     7501 taatcatcac ctggaaagga ggccttcatg ttatatggcc gtttaaaacc aggtacccct
+     7561 tggcggtttc taggtcctcc tggtggtttc taggtctcct tggcggtttc taggtccccc
+     7621 ttgacagttt ctaggtctcc ttggtggttt ctaggtcttc ctggtggttt gtagatctcc
+     7681 ttggcggttt ctaggtcctc ctggtggttt ctaggtcccc cttggtggtt tctaggtcct
+     7741 cctcgtggtt tctaggtctc cttggcggtt tctaggtccc ccttgacagt ttctaggtct
+     7801 ccttggtggt ttctaggtct tcctggtggt ttctaggtcc tcctggtggt ttctaggtcc
+     7861 tcctggtggt ttctaggtcc cccttggtgg tttctaggcc ctcctggtgg tttctaggtc
+     7921 tccttggcag tttctaggtc ctcctggtgg tttctaggtc tccttggcgg tttctaggtc
+     7981 tccttggcag tttctaggtc ccccttggtg gtctctggag ccccctggga gtttctcctc
+     8041 gcccctcgtg ggggaggttt ctaggccctg tggccttctc aactgctctt tcctgctggt
+     8101 tttgtcccaa gactggtgct cgaaggtggg aggcaggtct caatccagag ggtgaggctg
+     8161 gggctgagct ccacggtgag ccccctcggg gctgaggggc agggggccag cggcaggcgg
+     8221 gtggcatccc ctcagcccac tcggtgctgg ggccctgggg gtctcgttgc tgagcagatg
+     8281 tgtcggactg ggggcctgag ccctcatgtc ctgtctagac tcagggaaag gaaggcctta
+     8341 aatttctagt ccttttagtc atttgatttc acccttcaag cttgtgaggg gacccctccc
+     8401 caccccgaga tcaagtcagc cttttttttt tttgagacag agtctcactc tgtcacccag
+     8461 gctggagtgc aatggtgcag ttttggctca ctgcagcctc gacttcatgg gctcgagcaa
+     8521 tcctcctacc tcagcctccc aagtagctgg gtccacaggt gcgcaccacc acgctggcta
+     8581 atttttgtat tttttgtaga gacgggatct cactatcttg cccaggctgg tcctgaactc
+     8641 ctgagcttct gtgatccttt agtcttggcc tcccaaggtg ctggcattag aagcatgagc
+     8701 ccctgcaccc acccttccct tcttttttga gacggagtct cgctctgtcg cccaggctgg
+     8761 agtgcgatgg cgcgatctcg gctcactgca agctccgcct cccgggttca tgccgttctc
+     8821 ctgcctcagc ctcccgagta gctgggccta caggcgcccg ccacctcaca caaaaaaata
+     8881 atacattttt gtatttttag tagagacggg gtttcaccgt gttggccagg atggtctcga
+     8941 tctcttgacc ttgtaatctg cccgcctcag cctccttaag ccctggaatt acaggcgtga
+     9001 gccaccgtgc ccagcctgag tcagcccttc tctaggtttt atccccagcc tgggtggttc
+     9061 ttggggggtg tcccgaaggc tcagcccctc cccatcccga ggcggtggat gcttggaaga
+     9121 agagactgag gttctcaggg gctgcaggaa cttgtccaag gtcactgtgc cagcaggcgg
+     9181 gtgccagccc aggtctggct gatgccacca cgatgtgagt cgctgggtcc cttccagcgt
+     9241 ttggctcttg cagaccgagc tgctgtgaac attttggtac aaatggcttt ttaatttttt
+     9301 tctcttcctt ttggaccgtt tcctcgggat catttccccg aagtggagcg tctgggtcac
+     9361 cccgcagacg tggtgttaac agcttttccc tcgaggagcc gtccagaagc aaggagccga
+     9421 ctttcggcgg ctcctgaaac aaaggtcccg gcggccacgc cagcgatgag ctcccaggtt
+     9481 tttctttatt ggtgttaact ttggggagtc cctccagtcc ctcagcatct cctccgaaag
+     9541 gatgtgggga ccccggccat gatagggagg ggctgggcct ggggtgggga taaggcctca
+     9601 agaattggcc gggcgcggtg gctcacgcct gtaatcccag cactttagga ggccaaggcg
+     9661 ggcggatcac gaggtcagga gttcgagacc atcctggcta acatggtgaa accccgtctc
+     9721 tactaaaaat acaaaaaaaa aaaaaaatta tctgggcgtg gtggcgggcg cctatagtcc
+     9781 cagctactcg ggagggtgag gcaagagaat ggtgtgaacc ctggaggcgg agcttgcagt
+     9841 gagccgagat tgtgccatcg cactccagcc tgggcgacag agtgagactc tgtctcaaaa
+     9901 aagaaaacct caagaactaa gaaggctgag ttggtacagg gatgggaagg ggtcccgtgt
+     9961 gtgtgtgtgt gtgtgtgtgt gtgtgtgtgt gtgtgtgtgt gtgtgtcaga gggtctcatg
+    10021 ttacccaggc tggtcttgaa ctcctgggct caagcgatcc tcctacctca gcctcccaaa
+    10081 atgttggaat tataggcatg agccagtgtg tttggcctag cccccagtgt taatggcaaa
+    10141 atcctatgaa tctttgtgct ggaaattcaa gaccctccct tgtctgagtc aggcacacgc
+    10201 aggccatgtg ggctcagacc ccagtctgga acctcccctt cagcaagagc ccttggcccc
+    10261 agagcccaga ggtttttgtt ttgttgtgtt ttgttctttg agacagagtc tcgctctgtt
+    10321 gccccggctg gaatgcagtg gcacgatctc ggctcactgc aacctccacc tcccgggttc
+    10381 aaacaattca cctgcttcag cgtcccgagt agctggtact acaggcgccc gccaccacgc
+    10441 ccggctaatt tttgtattat tattttttga gatggggtct cactctgttg ccaggctgga
+    10501 gtgccatggc gtgatctcag ctcactgcaa cctccgcctc actggttcaa gcgattctcc
+    10561 tgcctcagcc tcccgagtag ctgggactac aggcacgtgc catcatgccc agccaatttt
+    10621 tttttttgta ttttttgtag agctggggtt tcactctgtt ggccaggctg gtcctgatct
+    10681 cttgacctca tgatgcgacc acctttgcct cccagagtgc tgggattaca gacgtgagcc
+    10741 accacacccg gcctaatttc tgtattttta gtagagacgg ggtttcacca tattggccag
+    10801 gctggtctca aacccctgac ctcaagtgat ccgcctgcct tggcctccca aagtgctggg
+    10861 aacacaggcg tgagccaccg cacccagcag gcttttttct tttatcagtt ttccaattag
+    10921 ccattgtaaa acctatcaat cagtgtcatt aagcccattc ttgctgttgt acaaccgtca
+    10981 ccactatcca tagtccatac ctttctcatt cccccggaca gaaaccgcac cccgcacatg
+    11041 ccacttctca cccctccaac ccccggcccc cggcacccat gcatcccctt cctgtctctg
+    11101 gattggcctg tcctggacat ttcgtagaaa tgggctcaca cggccgggcg cagtggctca
+    11161 ggccggtaat ccccacactt tgcgaggcct aggcagaagg atcatgaggt cagggtttcg
+    11221 agaccagcct gaccaacatg gtgaaaccct gtctctacta aaaatacaaa aatgagccag
+    11281 gagtggtggc tcatgcctgt aatcccagct actcaggagg ctgaggcagg agaatcgctt
+    11341 gaacttggga ggcggaggtg gcagtgagcc gagatggtgc cactgcactc cagcctgggc
+    11401 gacagggtga gactccgtct cggaaaaaaa aagaaatggc ttctctcact gaacgtgacg
+    11461 tcctcaaggg gcatctgcgc cgtggcctgg gtcagagcct cactcctttt cgtggctgag
+    11521 tcgtgttcca tggtggacgg gtcgcgccgt gtttgtccct ccgtttggtg atgggcacct
+    11581 gggctgcctc tgcctttttg ctactgtgga tcgagctggt gtgaacacag cggagtggtc
+    11641 gtcgtccgca gtcgagctgg tgtgaacacg gtggggtggt tgtcgtccgc aatcaagctg
+    11701 gtgtgaacac ggcggggtgc tcgtccgtcc ttgttttcat ttctttgggt ataatctcgg
+    11761 ggcagggaga ggctggtaat tttatgtctt tttaaggagc cacccgtgtt tgctccgagt
+    11821 cgttttgatt ttcattttct cgatagcgaa agggttgggc atctgtccag tagccatttg
+    11881 ctgaccctct atgacctcct gtgtggacgc ggcactccca gcaccgtgtc tggcccgcca
+    11941 tacgcaggcc ctgaaccgac aggacctttt ctgccagagc ttcccaggga gagttttggg
+    12001 atccaccttg gggacttgga ctctggccgg gtgtatctgg gagtggaaac gccctctggt
+    12061 ctcttgtcca cgggtattta tcatacggaa cgtccgaatg gtgccaagtc cggctcggcc
+    12121 gttcctccca ccctctcggc ctcccctgtg gcgccagccc cgtctctgct tggcttccct
+    12181 ccctcctgtg tggacgcccc acttcctccc ctctcctcct gcgtggacgc cccactccct
+    12241 cctctctcct cctgcgtgga cgccccactt cctcctctcc tgcgtggacg ccccactccc
+    12301 tcctctctcc tcctgcgtgg acgccccact ccctcctctc tcctcctgcg tggacgcccc
+    12361 actccctcct ctctcctcct gcgtggacgc cccactccct cctctctcct cctgcgtgga
+    12421 cgccccactc cctcctctct cctcctgcgt ggacgcccca cttcctcctc tcctgcgtgg
+    12481 acgccccact ccctcctctc tcctcctgcg tggacgcccc acttcctcct ctctcctcct
+    12541 gcgtggacgc cccacttcct ctggaaatgc agccggtgct gccctggttc agtcttcctg
+    12601 tggcccctgt ggaggctccc gcttctcagt aaggcatctg gggccctcac ctcccggcgt
+    12661 gagctgagca cggttcattt cccaccctgg cttcccgcct tcgctctccc tgtgcgcgcc
+    12721 gccctgcctc gccctgctgc ttcccagtgc ccctctgcac cccggctcct ctctgctcct
+    12781 ctgctgtcct gtcctgtcta tttttttaac gccaaccttg tgccaggcac attgtccctc
+    12841 tctggtcatg tgaagcactt aatctatttt gagccacctc ttgggccttg tgaggtctcc
+    12901 tgcatcttca aggacacggg gtcaaagttg ggcctgagga agggacctgg gctagggcag
+    12961 cgcagtgggc gttgggctcc ctcggggctg ggtggccttc ctggggtggg agcctggtcc
+    13021 cgagggagga gtgcccaggg cttgtcctgc aggcgcctgg ggggaaggca ccggcctgag
+    13081 ctgtgggcac cctcgtcccc cagggaggaa tgcccggggc tggtcctgca ggcgcctggg
+    13141 gggaaggcac cggcctgagg tgtgggcacc ctcgcccccc agggaggaat gcccggggct
+    13201 ggtcccatag gtgcctgggg gaaggcacca gcttgaggtg tgggtgcccc tcgtcccaca
+    13261 gggaagaggg cccggggctg gtcccatagg tgcctggggg aatgcaccag cctgagctgt
+    13321 gggcaccctc gccccccagg gaggaatgcc cggggctggt cccataggtg cctgggggga
+    13381 aggcaccagc ctgaggtgtg ggcaccctcg ccccccaggg aggaatgccc ggggctggtc
+    13441 ccataggtgc ctgggggaag gcaccagcct gaggtgtggg tgcccctcgt cccacaggga
+    13501 agagggcccg gggctggtcc cgcaggctcc tcggaggagg cactggctcg aggtgtgggc
+    13561 gcccctcgtc ccccaaggaa gagtgcccgg ggctggtccc gcaggtgccc cggggaggca
+    13621 ccggcctgag gtgtgggcac cctcgccccc aggttctact gggacttcac catgctgctg
+    13681 ttcatggtgg gaaacctcat catcatccca gtgggcatca ccttcttcaa ggatgagacc
+    13741 actgccccgt ggatcgtgtt caacgtggtc tcggacacct tcttcctcat ggacctggtg
+    13801 ttgaacttcc gcaccggcat tgtgatcgag gacaacacgg agatcatcct ggaccccgag
+    13861 aagatcaaga agaagtatct gcgcacgtgg ttcgtggtgg acttcgtgtc ctccatcccc
+    13921 gtggactaca tcttccttat cgtggagaag ggcattgact ccgaggtcta caagacggca
+    13981 cgcgccctgc gcatcgtgcg cttcaccaag atcctcagcc tcctgcggct gctgcgcctc
+    14041 tcacgcctga tccgctacat ccatcagtgg gaggaggtga ggtggggcgg gggcggggcc
+    14101 aaggcagcag gggcggggct ataatggtgc atgggcgggg ccaaggcagc aggggcgggg
+    14161 ctataatggt gcatgggtgg ggccaaggca gcaggggtgg ggctatgaga gatctgggtg
+    14221 gggtcaaggc cccaggggtg gggctatggg agatctgggt ggggtcaagg ccccagggat
+    14281 ggggctatga gagatctgag tggggtcaag gccccaggga tggggctatg agagatctgg
+    14341 gtggggtcaa ggccccaggg gtggggctat gggagatctg ggtggggtca aggccccagg
+    14401 gatggggcta tgagagatct gggtggggtc aaggccccag gggtggggct atgagggtgc
+    14461 aggggtggag ctacaatggt gcagtggtag agccaagaca gcaggggtgg ggctatcagg
+    14521 ttgctgagca gggtcgaggc agcaggggca gggctatgat gctgctgggg tggagtcaag
+    14581 cagcaggggt ggggccgtga tatctgggtg gggtcaagga gcaggggcag ggctgtgagg
+    14641 gtgctgggcg gggtcaaggc atcaggggcg gggctatgag ggttgtgctg agcggggtca
+    14701 gacatccgag tggagatatg agggttgtgc tgggcggggt caggcagcaa gggcgggact
+    14761 atgagggttg tgctgggcgg ggtcaggcag caggggcggg gcaatgcggg ttttgctggg
+    14821 gcagggccag acatcagggg tggggatatg agggttgtgc tggggcggtg tcagacatca
+    14881 ggggtgggga gctgtggatt tggggggtgt cctagggcgg gggctgtgga tttggggggg
+    14941 tcctgcagtg aaggctgtag aggtgggcgg ggtcctgggg tgggggctgt gggtttggag
+    15001 ggcgggggtc ccggggcagg gctgcagggt ggggcggggg tcctgtgcgg ggccttggat
+    15061 ttgggggagg gggccaggag ctcccgcagt gggggcgcac ggggctgggg ctctgaaggt
+    15121 gggggccggg ggtcagcggg tagggtgggc tcacggcgcc ttcctgcaga tcttccacat
+    15181 gacctatgac ctggccagcg cggtgatgag gatctgcaat ctcatcagca tgatgctgct
+    15241 gctctgccac tgggacggct gcctgcagtt cctggtgcct atgctgcagg acttcccgcg
+    15301 caactgctgg gtgtccatca atggcatggt ggtgagcgcc gcgggccctg acggaggggg
+    15361 agacgcaggc tcccatacag aggggggacc caggccccct tatcccgctt acagagggtt
+    15421 gaacccaagc ctttcagagg tggggaccca ggcgccccct tatggagggg aggactcggg
+    15481 cccttacaga ggtggggacc caggcgcccc cttatggagg ggaggactcg ggccctttca
+    15541 gaggcgggga cccaggcgcc cccttatgga ggggaggact cgggccctta cagaggtggg
+    15601 gacccaggcg cccccttatg gaggggagga ctcgggccct ttcagaggtg gggacccagg
+    15661 cgccccctta tggaggggag gactcgggcc ctttcagagg tggggaccca ggcgccccct
+    15721 tatggagggg aggactcggg cccttacaga ggtggggacc caggcgcccc cttatggagg
+    15781 ggaggactcg ggcccttaca gaggtgggga cccaggcgcc cccttatgga ggggaggact
+    15841 cgggccctta cagaggtggg gacccaggcg cccccttatg gagggaagga ctcgggccct
+    15901 tacagaggcg gggacccagg ccgccttaca gagggagaga cacaggccct tcaggggtgg
+    15961 ggacaagacc cccttacacg ggaggactca ggcctcttta cagaggggga cccaggactg
+    16021 cagccccggc actggcccct taatgtccct gggggtctga aacagccact tggaaccttt
+    16081 caggcctggg atcatccgtg gagagaagct gagtgtggtt atgatgagtc ctgtcaccca
+    16141 gacatctgct tagcgcgttt tccaatggat ttccctttta attaacccac attaattatt
+    16201 attattttat ttacttattt ttttttgaga ctgagtttca ctctgtcgcc caggctggag
+    16261 tgcagtggca cgatctcggc ttaccacaaa ccccacctcc cagggttcaa gggattctct
+    16321 cgcctcagcc tcccgagtag ctgggactac aggcgcccgc caccacacct ggataatttt
+    16381 cgtactttta gtagagacgg ggtctcgcca tgttggtcag gctggtctcg aactcctgac
+    16441 ctcaggtgat ccgcctgcct cggcctccca aagtgttggg attacaggcg tgagccaccg
+    16501 cgcccggcct ggttggatcc cttgagccca gaagttgagg ctgcagtgag ccatgattgc
+    16561 accactgcac tccagcctgg gtcacagagc aagacctgat ctctaacaac taaagaaaaa
+    16621 tttacaacat ggccctgaat tgggaaagtg gtatcaccat gccaaagaaa taataaatgg
+    16681 gccaggcatg gctgctcatg cctgtaatcc cagcactttg ggaggctgag gcaggcggat
+    16741 cacctgaggt caggagtttg agaccagcct gaccaacatg ctgaaacccc gtctctacta
+    16801 aaaataaaaa attagccagg cgtggtggcg cgcacctgta attccagcta ctgtagaggc
+    16861 tgaggcagga gaatcgcttg aacccgggag cagaggttgc agcgagctga gatcacacca
+    16921 ttgcactcca gcctgggcaa cagagccaga ctttgtctca aaaaaaataa ataaaaataa
+    16981 gtaaaagcaa aaggaagagg ccgggcgcgg tggctcacgc ctgtaatccc agcactttgg
+    17041 gaggccgagg tggggctgat cacctgaggt caggagtttg agaccagcct gaccaacatg
+    17101 gagaaacccc gtctctacta aaaatacaaa actagcttgg cgtggtggcg catgcctgta
+    17161 atcccagcta cttgagaggc caaggcagga gaatcgcttg aacccgggag cggaggctgc
+    17221 cgtgagccaa gatcgtgcca ctgcactcca gcctgggcga caagagcgaa actccgtcaa
+    17281 aaaagaagga ataataaatg aagttaggtc ccagatactc cttgcttcct agctgagatg
+    17341 tgctgactgt taagaagggt tagttatggg agccctcggc cgctacagtc aggttagtgg
+    17401 ccagtgagcc tttgtccctg cctggggagt gctgtgcccc agcgtccagc cacatatggg
+    17461 acttgggatg tgtttggttt ggacacagag caggtgggca ttgatggggt caggagctac
+    17521 agagggaaga cccgccagtg cccctcccca gagcctggca cagctgccca ggctgaggca
+    17581 gcccattgtc tggctgccac ccgcacatgc ggtcccattt cctgaacaga gccccgcggc
+    17641 tcccctttcc cggccgggtc agctgaggac ttggtgcggc aggacctcct gggccggcct
+    17701 ggtgtctctg cccgccctgc ccctctgctc tggcccagat gctccctgga acttttgccc
+    17761 cctcttgacc tcacagatgc tctgatctca gaggctgcaa aaggcgggac ccagactctc
+    17821 gcccttgggg tctcagtttc cccaggagtg aagcgggcag gtagaatcag ccctggccct
+    17881 cctgccaact cactgtgaca agtgtgcaaa ccatgtcatc tacctgggtc tccatttctc
+    17941 ttggttacct ctgaacatgg ggagctcacc acctccagtg cttggcagag ggtgggcgct
+    18001 gggcccttga ggaccgaggg ctcctggggc gtgagcacct gcccaccacc gcccctcctg
+    18061 ctggccttgc agaaccactc gtggagtgaa ctgtactcct tcgcactctt caaggccatg
+    18121 agccacatgc tgtgcatcgg gtacggccgg caggcgcccg agagcatgac ggacatctgg
+    18181 ctgaccatgc tcagcatgat tgtgggtgcc acctgctacg ccatgttcat cggccacgcc
+    18241 actgccctca tccagtcgct ggactcctcg cggcgccagt accaggagaa ggtctgaggg
+    18301 aggcgggccc cggcctgggt tctgatgggg gaggcgggcc tggatctggg gtctgagaga
+    18361 gagtcaggcc aggccctggg gtctgatgga gggaggcagg cccggtcctg gggtctgagg
+    18421 ctggagggag gccttgccct ggggtctgag ggcggaggta gtccttgtcc cggggtctga
+    18481 ggggaggggc gggcccggcc ccggggtctg aggggagagg cagtctcagc ccttcactca
+    18541 gcttcaagtg gcgcgctcag ggcagagacc gcgtgatggg gagcagggga ccctgggggt
+    18601 ctgtggctgt gattaggagg agaaacggcc ggtggtgaga ggttctctga ccctgtgaca
+    18661 gggagggagg tccagagcct ggagatggac gtggggcggg ggctggggag gggatgcagg
+    18721 ctgggcagga aggggtgagt tgggatcagg gcaggacagg gtcagtcttt ggacatcggg
+    18781 aagcccccgg gctgaagggg cattgccagg aggctgggcc cacctggggg tctctaggcc
+    18841 ggctcaggat ggggctgggt tagggaaggg cctggcgggg tctgagaggc ctggggttgc
+    18901 ttcaggacac gccggtggcc ggcagtcagg gccaggcttc agggagagca aggctgcccc
+    18961 actgctcaga tgcggcctct ggcctgcagc gtccattggg ttaatcctag gcttggcagt
+    19021 ggaggggaca cgggggagct gggaggggtg gagggagatt aggattggcc ccattggcag
+    19081 cccctggagt tgggcctcat gcaccactct gtgcctcagt ttccccatgt taggcggctg
+    19141 gctggtcctg gctgggagcc aagtgccccc ctctcccgcg ccccgagcag tggctggctg
+    19201 ggtcagctgg gccccgtgcc aggcgccctg ctgtccggaa gccacgggcc tcacacccaa
+    19261 acataagctg gtgccaccac ccgcccgccg tcacgggttc cgctgagctc agggcagctg
+    19321 cggccgggcg gggctggggc ggaagtgagg ctggagctgc cggggggcac cgtcctgggg
+    19381 acagcagggc ctggcacccc cgcccagcac ccacgctccc ttccctgctc aggaggggct
+    19441 gacccgatgg tttctggaaa gatcatcagg gaagggccag agcccccggg aagggggtcc
+    19501 tgtgtgtcag ggtacctggg gcctctcctc gtagagtcag gtgcccaccc attcctcagg
+    19561 gatagggttg ctagataaag ttcagggcac ccggcctggt gcagtggctc ctgcctgtaa
+    19621 tcccggcact ctgggaggcc gagacaggcc gatcgcctga ggtcaggagt ttaagaccag
+    19681 cctgagcaac acggcgagac ctcatcgcta caaaaaatta aaaaattagc agggcagggt
+    19741 ggtgcacacc tgtaatcccc actactcagg aggccgaggt gggaggatcc cttgagccca
+    19801 ggagttcaag accagcctgt gcaatatggc gagacctcat ctccacaaaa aataaaagaa
+    19861 tcagccaggc gtggtggcgc acacctgcag tccctgctac tcaggaggct gaggtgggag
+    19921 gattgcttga gcccataggc ggaggctgca gtgagctgtg attgcaccac tgcactccag
+    19981 cgtgggccac agagcgagac agtgtctcag aaaaaaaaaa tggaatttat cattgaaacg
+    20041 aattcaactt tgatttaaat agaagcatgt ttatttgctc ttgttgaatc tggccgcccc
+    20101 tgtgtgtggc ggaggcctgt ctccccgctg tgggcggggg ctttgtctga cccagccctg
+    20161 accccccaca gtacaagcag gtgtgaaggc ctatctcccc gccacaggcc ggggggctgt
+    20221 ctgacccaca agcaggtgcc cgtgtgcccg ctgcaggctg ggggcggtgt ctgacccagc
+    20281 ctcgcctccc cacagtacaa gcaggtgccc ctgtgcccgc tgcaggccgg gggcggtgtc
+    20341 tgacccagcc tcgcctcctc cccacagtac aagcaggtgg agcagtacat gtccttccac
+    20401 aagctgccag ctgacttccg ccagaagatc cacgactact atgagcaccg ttaccagggc
+    20461 aagatgtttg acgaggacag catcctgggc gagctcaacg ggcccctgcg ggaggtgagg
+    20521 cgggcgccgg gcgggcggga ggcagcctcc ggtacagggc cggcctccct ctcctggagc
+    20581 ccaggagccg gtccctgagg gaggcgaggt gcctaggctg cagcaggagg gactcgagct
+    20641 agacctgcgt acacaccctc ccctccccgc cccgtgagcc tctgcacccc caggaccccc
+    20701 gccacccccg ccttgcttcc cgctgccccc ttagcagaac tgcctgggtc tgtgcctgac
+    20761 agggcggggc agaagcaggg cagggggtgg ggagggagga gccgcagagg ccccgctgag
+    20821 caccaggtcc tgggggcact gaggctgatt ggagcgggtt taactcccag ctctgttccg
+    20881 gtagcctgag tgaccctggg caagtttccc agggttgcgg gaacaaatac ccacaggctg
+    20941 agtggcttga acagcggaga ttcggcctcc caccgtcctg gaggccggaa gcccaacatc
+    21001 aaggcgtggg ccgggccgtg ctaccccccc ggagcccctg gggaggatcc ttcctgcctc
+    21061 ttccggcgtc tggggctcca ggcgcccttg gcttgcagat tgatctccct gatctctgcc
+    21121 tccatctgct cacagccttc tcccctgtgt gtctctgtct cttcttgtaa attcatccgt
+    21181 cgttggatca gggcccaccc ggttcctcgt ggcctcgcct taactgggcc atgtctgcag
+    21241 agaccctatt tccacataag gtcctattca caggaaccgg gggtcaggat gtcagcctgt
+    21301 ctttctggga gatgtagttc aacccacaac acacatcaaa cagttattga gcgccgactg
+    21361 cgtgccctgc cgtgtgcttg aaggtcccac cctcaggaag cggggcctag ggatggcggc
+    21421 cgtgatcacg caggcagcag agagcagctc tgggaagcgg ggagggacga ggacggggag
+    21481 gcgacatcag caaggccgtg tgtgagccag gcagggtgtc cccggtgtag cacctggctc
+    21541 gggcagaggc cccgaggagg ggctggagga gctgggcgag gaggcgggca ggacgggcct
+    21601 gacactaggg acctcgggcc ccgggaatgc ctctgggggg gcgtgtacac ccgttgctcc
+    21661 caggaggcac acactgcggt tcgcttcgcc aagaatgttt aattgcattt gatgactacg
+    21721 gtttccattc attcatttgt agagatataa cactcagacc acaaaatgca taaaatgcgg
+    21781 tggcttttag tattaacaga gtgctgcacc cgataccaca gcctcactcc agaacattct
+    21841 catgggccca aaaggagacc tggggtgtta gtcaccagct cactccccgt ccccagcccc
+    21901 tggcaaccca cgctacttag tcattattta ggtgtttagg agttgcaaag tcaaatcttt
+    21961 aaacccacat atggccaggc gtggtggctc acgcctgtaa tcccagcact ttcagaggcc
+    22021 gagacgggca gatcacctga ggtcaggagt tcgagaccag cctggccaac atggtgaagc
+    22081 cccgtctcca ctaaaaatac aaaattagcc gggcgtggtg gtgggcgcct gtaatcccag
+    22141 ctactctgga ggctgagaca ggagaatcgc ttgaacccag gaggcggcgg ttgcagtgag
+    22201 ccgagattgt gccactgcac tccagcctgg acaacagagc gagactccgt ctcaaaaaaa
+    22261 aaaaaagtac caaaaagtgc cccaggtcat aagggcacag ctcgatagct ggtccctaaa
+    22321 gggaacgtgg tgtaaccacc acacagaacg aagctggaac gttcctgccg tccttagaag
+    22381 ctgcctttgc taaggggaat tgccctgact tcccacacca ttgattcatc tccagaccct
+    22441 tggttttcat gttgattttt caaaaatcac ctgatagtct gaccgaatgt agctttccac
+    22501 tggtgtgtgt gtgtgtgtgt gtgtgtgtgt gtgtgtgaga gagagatgga gtctcgctct
+    22561 gtcacccggg ctccagtgca gttgtgtgat cttggttcac tgtaacctcc tcctcccggg
+    22621 ttcaagagac tcgtgcctca gcctcccgag tagctgggat tacaggcacc cgccaccaca
+    22681 cccagctaat tttttgtatt tttagtagag atggggtttc accatgttgg ccaggctggt
+    22741 ctcgaactcc tgacatcagg cgatccaccc accttggcct cccagagtgc tgggattaca
+    22801 ggtgtgagcc accacgcccg gccttatttt tcccccattt tctttttttt tttttttgag
+    22861 tcagggtctt gttctgcgct caggctggag ggcagtggtg tggggatcac ggctcactgc
+    22921 agcctcgact tcctgcacca ccacgcctgg ctgttttttt tttttccggt agagacgggg
+    22981 gtcttaccgt gttgcccagg ctggtctaga actcctgggc tcaagcgatc ctcccgcctc
+    23041 ggcctccgca aatgctgaga tcacacgcgt gagcccccgc acccggcctc ctttccaccg
+    23101 ctcttgtcta cagccgcccc tcctggtccg attgtattgg cagatgtcgc caatacggtg
+    23161 tcaaacggcg aaggggcact gagcgttttt tctttctccc gtccttggcg gcagcagctc
+    23221 ggttccggct acggggctga gcccgtctct cagacgagga aactggggtc cgagaggtga
+    23281 gccggtccca gaggcagggc gagggggaag cgggagtggg gtccgcagcg gacccagccc
+    23341 tgcctccccc ctgcaggaga tcgtcaactt caactgccgg aagctggtgg cctccatgcc
+    23401 gctgttcgcc aacgccgacc ccaacttcgt cacggccatg ctgaccaagc tcaagttcga
+    23461 ggtcttccag ccgggtgact acatcatccg cgaaggcacc atcgggaaga agatgtactt
+    23521 catccagcac ggcgtggtca gcgtgctcac taagggcaac aaggagatga agctgtccga
+    23581 tggctcctac ttcgggggtg agcttgaggg gggcgcgcct ggagggggag ggggcacgcg
+    23641 acccccgcgg tgtgcagagc cagggggccg gggccggggc cggggccggg gatggggatg
+    23701 gggatgggga tggggccggg gatggggatg gggatgggga tggggccggg gatggggatg
+    23761 gggatggggc cggggatggg gatggggccg gggatggggc cggggatggg gccggggatg
+    23821 gggccggggc cggcaccagg gagagcctgg gtgggaagcg cccacgctgg ccaaggtgca
+    23881 gaggccgggc cgtgtgcctg ggcggggagg gccgcggcgc ccgcctcgtc cagcaacccc
+    23941 cccctgcgcg ccacgtgcag agatctgcct gctcacccgg ggccgccgca cggcgagcgt
+    24001 gcgggctgac acctactgcc gcctctattc gctgagcgtg gacaacttca acgaggtgct
+    24061 ggaggagtac cccatgatgc ggcgcgcctt cgagacggtg gccatcgacc gcctggaccg
+    24121 catcggtgag cgggccgggg gcgtggccgg ggcgggtgcc ctggcggggg aggggcgtgg
+    24181 ccaaggcatc aggagagtgg cttggacagt ggcaggggga agggcgtggc tgtggcatca
+    24241 ggggcacggt tggggcagag acgtggccaa ggcatcagga gtgtggccat ggcagcaggg
+    24301 gcgtggctgg ggcaggggca gcggctggcc gctcctagga cccctttggg tctagaggct
+    24361 gattttctga cctattgtcc tacttcagcc agaggcagcc tgtttcccaa gggagggaat
+    24421 gcacagggtg tttgcggttg tgccgaatgc tcggtgagca cctgctgtgt gctgggggtg
+    24481 caggggacag acccgggggc ccactcagac tcccagggag gcttatggac tggtgatgaa
+    24541 atcacacacg actgggctgt gtgccagcag ggcaggtggg gccggtgggc ttccctgagt
+    24601 tgggaatgca gagtggagac cagggtaagg gatgccatgt ggaaacgggg aggaagatgt
+    24661 gttcgtggag tggacacagc acatcccaag gccctgaggt ggaaaagagg cctagagtcc
+    24721 agagagccag ggaggcctgg aggaggttgg ggaagaaggg gaggccagac acacagggcc
+    24781 cagtgggcgg cagggagagt ttagactaaa tcaggagcat cagggagcca tggagggttc
+    24841 taggtgggcg gaggacctgg tcagattgta tccgccaagg cgggccgtgt ccaggaggga
+    24901 gacggtgacc tggcctctca ggggggcagt ctctggggca gggagcggca gagccctgat
+    24961 gactggatgt aggcgccaga gagatggcgg ctcatgctgc tgttcgtggg aatgggaatg
+    25021 aagaccatgg ctgaaacgca ggacaggtgc gacggagtgg tgtcagggag ctccctggtg
+    25081 tacagtagga agctctccac aacttgctct atacagtgag tatgcaaccc gttcctgagt
+    25141 atcaggtgct taggttataa cttctgtata cagcaggtgc tcagcacagg ctgtgtacag
+    25201 gcaggtgttt tcggtatgcc tgtggcacac tggaggcagt cattacataa tcagcgtata
+    25261 caggtggtac acatgcatac ttggtgcaca gtgatacctg ctccatgtac acagcaggca
+    25321 ttaaatacct gtttactgcc aggcgcggtg gctcacgcct gtagtcccag cactttcgga
+    25381 ggccaaggtg ggtggatcac gaggtcagga gattgagacc atcctggcta acatggtgaa
+    25441 accccgtctc tactaaaaaa aaaatacaaa aaattagccg ggtgtggtgg cgggcgcctg
+    25501 tagtcccagc tactcgggag gatgaggcag gagaatggtg tgaacccggg aggtggacct
+    25561 tgcagtgggc cgagatcgcg ccactgcact ccagcccggg cgacagagca agactccgtc
+    25621 tcagaaacaa agcaaaacaa aagccctgct ttctgtatgc aggtgcttca tgcatgctgg
+    25681 ctgtgcatag caggtgctca gcctgtatat ggcaggtact caatatccat actataggcc
+    25741 agagatgcta catatgtgct tattgtatac agtaggtggt aaatgcatgc ttgctctaca
+    25801 cggcaagcac tgtgtgcgca cccgcggtgc agagtaggtg ctcggtgccc gctgtacgca
+    25861 gcaggcgctc cctgtgcaca cgctaacgcc ccctctcccg caggcaagaa gaattccatc
+    25921 ctcctgcaca aggtgcagca tgacctcaac tcgggcgtat tcaacaacca ggagaacgcc
+    25981 atcatccagg agatcgtcaa gtacgaccgc gagatggtgc agcaggccga gctgggtcag
+    26041 cgcgtgggcc tcttcccgcc gccgccgccg ccgccgcagg tcacctcggc catcgccacg
+    26101 ctgcagcagg cggcggccat gagcttctgc ccgcaggtgg cgcggccgct cgtggggccg
+    26161 ctggcgctcg gctcgccgcg cctcgtgcgc cgcccgcccc cggggcccgc acctgccgcc
+    26221 gcctcacccg ggcccccgcc ccccgccagc cccccgggcg cgcccgccag cccccgggca
+    26281 ccgcggacct cgccctacgg cggcctgccc gccgcccccc ttgctgggcc cgccctgccc
+    26341 gcgcgccgcc tgagccgcgc gtcgcgccca ctgtccgcct cgcagccctc gctgcctcac
+    26401 ggcgcccccg gccccgcggc ctccacacgc ccggccagca gctccacacc gcgcttgggg
+    26461 cccacgcccg ctgcccgggc cgccgcgccc agcccggacc gcagggactc ggcctcaccc
+    26521 ggcgccgccg gcggcctgga cccccaggac tccgcgcgct cgcgcctctc gtccaacttg
+    26581 tgaccctcgc cgaccgcccc gcgggcccag gcgggccggg ggcggggccg tcatccagac
+    26641 caaagccatg ccattgcgct gccccggccg ccagtccgcc cagaagccat agacgagacg
+    26701 taggtagccg tagttggacg gacgggcagg gccggcgggg cagccccctc cgcgcccccg
+    26761 gccgtccccc ctcatcgccc cgcgcccacc cccatcgccc ctgcccccgg cggcggcctc
+    26821 gcgtgcgagg gggctccctt cacctcggtg cctcagttcc cccagctgta agacagggac
+    26881 ggggcggccc agtggctgag aggagccggc tgtggagccc cgcccgcccc ccaccctcta
+    26941 ggtggccccc gtccgaggag gatcgttttc taagtgcaat acttggcccg ccggcttccc
+    27001 gctgccccca tcgcgctcac gcaataaccg gcccggcccc cgtccgcgcg cgtcccccgg
+    27061 tgacctcggg gagcagcacc ccgcctccct ccagcactgg caccgagagg caggcctggc
+    27121 tgcgcagggc gcggggggga ggctggggtc ccgccgccgt gatgaatgta ctgacgagcc
+    27181 gaggcagcag tgcccccacc gtggcccccc acgccccatt aacccccaca cccccattcc
+    27241 gcgcaataaa cgacagcatt ggcgccaagc ctggccgcgt gtgattgccc gagacccgca
+    27301 gggcgtgcac ccttcctgaa gacagtggct cctgggggtg gcaaaagagc tttatttaca
+    27361 cactgacaag gctcacgggg tgtcagctga agaagtaggt ggaacgcttc acctgctcca
+    27421 ggtcgaaggc ccctgcggag gaagcagagc ggacggcgtg ggtggcggga aagccccgcc
+    27481 ctggcccgca gttcgagcca cccttgcgag gctgcccacc cgcctacctg gcttgggcac
+    27541 cgcctgcagt gtctccttca gctggctggc ctccaagatc ttctggggcc tggggttgga
+    27601 agcagggtgg ggtgaggctg aggccaggtt ttggggtggg gggggaatcc aggtagttgg
+    27661 ggtcagggag cgccttactc agagcagaac cgcttgacca ggaatctgga caggtcctgc
+    27721 aggatgggct cgctgtgcaa gcggacaaac tgctcccggc acacctgggc aggagtcaga
+    27781 ggatccccag gggtgatcag gcaggctctg ggcaccaccc ctacccaacg ccccagtgtg
+    27841 ggggccccac ccatgggtgg actgaggctc agactacggg ggcacctggt tcatgacgga
+    27901 gacatcagct gcgtgagtcc agtaacagtc gtgcacagag acgaaggtca ggcccttcct
+    27961 gtggcagagc ggaggactcc tgaagggagg ggagctcaca gggccaccca gtgaccagca
+    28021 tcctggccct gcgctcagcc ccctccactt gaggtccagg gaagcccacc ctcctgcagg
+    28081 cctcgcccca cccctcgccc cgcccctccc caaacatcct gggttaggta tcagtacagg
+    28141 gggaggaaat gttcccagaa gcctcctcgc cccacccctg ccgcccccca cgctgctgtg
+    28201 ggagcctcag ctccgagggc ggctacgagg tcccctcctg ccagggccac caccccgcat
+    28261 cctgagcatt cccagctccc gtggccggta gattctgctg gaacgacctc cacgtgctcc
+    28321 agatctaacc acacatcgcg gtgccaagaa atgcccagca ggaaggggca gcgcccatgc
+    28381 tcggctctcc ctgtcgggcc acaggagggg agctgccagg accacctaca ttcggggcac
+    28441 acagcctcag ggcctctaca caggccccac agacacagca gatccactct gcccagtccc
+    28501 tgcccccagc tagacccagc cttgccagct gtgccctgct agccagaaga cgcccctggg
+    28561 aggcgagcgg cacccacgcc gtccggagac gcccacctgt agcagtgcag ggcggtgagc
+    28621 atcatgtggg aggagtccag cgagtggatg aagttgggcg ggaagccgtt cttctgctta
+    28681 cgtgtgttgg gctttctgag gacggaacag gtgccggtgg gggcggccca gggacacccc
+    28741 taactggccg ctgtctccac cgtggctgct ctccagaccc ccggccaggc cccagcccgg
+    28801 gccccccact caccggctga tgtctccgtt gtgggtgtag gtgatgctct gaattccacc
+    28861 tcctatttgc taaaaagggg aaggggccgg tgagtcccac ccgaggccca gcacggtggt
+    28921 ggtacattga ggtggtggta cactggggta gtggcacgct aggatggtgg cacactggcg
+    28981 cgggatgggg tggcacactg gggcggtggt acactggggt ggtggtacgc tggggcactg
+    29041 gtacactggg acgctgttac actgggatgg tggcacactg gggagggatg gggtggtaca
+    29101 ctgaccttga ccttggagtc caggcgatag ggctggatga cggggacgcc caggggtgtg
+    29161 acccactcca ccacagagcc catgtgggag atgaggcggg cactctcggt cagccagtgc
+    29221 tgtgggacac aggccgtctc agggcagggg gctcaggccg gggatcccgt ccacttgctt
+    29281 agggagtcct ggccgagcgg ggacaggaca ggacgtacct ggatggcccg ggtccccgag
+    29341 aacatctcct gtagactctt gaagacctgg cgtacgagat agtgagaggc ctcccacacg
+    29401 aactcctgca gagggcgggc agcaggtgca ggtcctcagg ggctggcccg ttcacgccct
+    29461 actcccccct atttcagagc cactgaggcc caaggcctag ggcctagcag gggggcaggg
+    29521 gaatggggcc tggcgcccac gcagtcagca agaaacgccc aagccctaac aggcagccag
+    29581 tggtctgggg gagcagccag ggctcctgct gggaggctgg gtcgggggca cacccgtctg
+    29641 agttttaaat ggcagtgaaa ccaacgtgtt cgcagcgcga catgcctggc gcacctgggg
+    29701 aaagtcgctc agctcccgga ggcgcttctc aatctgcagg cgcccgccat agcgcgtgac
+    29761 cccgtacacc accgtcatca ccgtctgctt caccaccttg cgggtgatga aaccttccag
+    29821 cacctgtgcc acccgcatgc cccgctgggc gtcctgccta cggaacacct ccacctgcac
+    29881 ggcgggtggg ccgggggcgc gggtcagccc cgctagcagc ccaggggcca ccaagcaccc
+    29941 atgaagcccc cgccccagcc ccaccacatc ctcaggacag gccaaggtga gggcacctgg
+    30001 ggccgagact cagggctcac attgccccca cgccgagatg cccccgggca gcagggcaca
+    30061 ccctacctgc gcggccacgc cgctgtacac gtcctgcggc acatccgagg gctccaggtt
+    30121 gacggaggcg gcgcccacgc tgtcgcggcc cagagcagca taatgctgca ggccgttgca
+    30181 agagccgtcc tgaggaaggg gcggcaaacg ggagatggaa gctagagagg cagagacgtg
+    30241 tgggacccca aaccaccccc caggtcgagc cgttcctagg gccgtgcacc ccccagccaa
+    30301 gtgcaccgga gcccccgcac gctcccggga gagaccagga gccatggctc ccgcacactc
+    30361 taggaccacc tccagagaat accacgagcg aaggtgaaat ctcacaccct caagtcgagc
+    30421 cccaggccca gtgcacactg cacggcctcg ggggccagac ccagctggct cacctgatgg
+    30481 acggggaggt gggagacata ggcggcaggg tcggaggcgc gcacagcgtt cgccacctcc
+    30541 atacagcagg ccagcgtctg ccagggttcc tccgcgccca tccaccactt tcggccctgc
+    30601 ggggacagcg gatggggggc agtgaggccc gggcccgatc cctgagcccg ctgggaggct
+    30661 gtgttgcggg gaggtgggaa atggggagga gacgcacacc cgtgatagtg aacacgggac
+    30721 gcatgtgggc gagagacggg gcggtggctg gatgagttct ccatagccac ggatggagga
+    30781 tgggagctgc gggtggaccg ggctgaaaca agcgtgtccg gagctgccgg gggaggaggg
+    30841 tggacagagg acctgggggc gccgggggag gaagcagctc ggcggatgca ggggaggggg
+    30901 gaacgtgggg aacgcggggg ccctggggca ggggagaagg gagaagcagg acgggcaggg
+    30961 ggcgcggggg aggagagcgg gcgggggacg tgggggcgcc aggggagggg gaggggagga
+    31021 ggaagacggg cagggggcgc caggggaggg ggaggggagg aggaagacgg gcagggggcg
+    31081 cgggggcgcc gggggagggc gcgggggcgc cgggggaggg cgcgggggtg ccgggagggc
+    31141 ggggaatgcg ggggccccgc ccctaccgtc aagggttggt ccgcggagtc caggatgtca
+    31201 tccatcacct cctccgcaaa ggccaggcgc ttccgcagcg gctcccgctt cttcaacccc
+    31261 gtgagattga ccaggtggat cttgagccaa tccaggccgt gcgggccgag cgggcggccc
+    31321 tgggcgaact ccagcagggc ccgcgccacg tcgctgccca ggtggttgaa gtgcggcggg
+    31381 caggggtagg tgcggccgcg gaagtccatg ttgtgcggca gccagaagac gcggtcccgc
+    31441 aggtgctgcg ccagcgagag gcggtacagc gcctccgccc gcaggctgtg catctcccgg
+    31501 gccaccttct ggcagtgcgc cagctcacgg cgcagctcgg ccttgcgggc gggcgcggcg
+    31561 ctgtgcggca ggtgggcctc gggcggctgg ggcgcctcgg agggcggggc cggcacgcct
+    31621 agctgggggc agcccttggc ctggaagagc tgcagcacca ggtccagcac gcgcccgttg
+    31681 acgcgccagg cgcagttgcc cagttgggtg agggcgtcca gtgcgccatg cagcgcggtg
+    31741 ggcgggcagg tttccagcag ctcctggtgc tgcgtggcgc cttccaccgt gcgcatcagc
+    31801 ttggtggggc tgagcaggaa a
+//

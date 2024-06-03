@@ -1,0 +1,1059 @@
+LOCUS       NC_000019              19228 bp    DNA     linear   CON 07-OCT-2023
+DEFINITION  Homo sapiens chromosome 19, GRCh38.p14 Primary Assembly.
+ACCESSION   NC_000019
+VERSION     NC_000019.10
+DBLINK      BioProject: PRJNA168
+            Assembly: GCF_000001405.40
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 19228)
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Finishing the euchromatic sequence of the human genome
+  JOURNAL   Nature 431 (7011), 931-945 (2004)
+   PUBMED   15496913
+REFERENCE   2  (bases 1 to 19228)
+  AUTHORS   Grimwood,J., Gordon,L.A., Olsen,A., Terry,A., Schmutz,J.,
+            Lamerdin,J., Hellsten,U., Goodstein,D., Couronne,O., Tran-Gyamfi,M.,
+            Aerts,A., Altherr,M., Ashworth,L., Bajorek,E., Black,S.,
+            Branscomb,E., Caenepeel,S., Carrano,A., Caoile,C., Chan,Y.M.,
+            Christensen,M., Cleland,C.A., Copeland,A., Dalin,E., Dehal,P.,
+            Denys,M., Detter,J.C., Escobar,J., Flowers,D., Fotopulos,D.,
+            Garcia,C., Georgescu,A.M., Glavina,T., Gomez,M., Gonzales,E.,
+            Groza,M., Hammon,N., Hawkins,T., Haydu,L., Ho,I., Huang,W.,
+            Israni,S., Jett,J., Kadner,K., Kimball,H., Kobayashi,A.,
+            Larionov,V., Leem,S.H., Lopez,F., Lou,Y., Lowry,S., Malfatti,S.,
+            Martinez,D., McCready,P., Medina,C., Morgan,J., Nelson,K., Nolan,M.,
+            Ovcharenko,I., Pitluck,S., Pollard,M., Popkie,A.P., Predki,P.,
+            Quan,G., Ramirez,L., Rash,S., Retterer,J., Rodriguez,A., Rogers,S.,
+            Salamov,A., Salazar,A., She,X., Smith,D., Slezak,T., Solovyev,V.,
+            Thayer,N., Tice,H., Tsai,M., Ustaszewska,A., Vo,N., Wagner,M.,
+            Wheeler,J., Wu,K., Xie,G., Yang,J., Dubchak,I., Furey,T.S.,
+            DeJong,P., Dickson,M., Gordon,D., Eichler,E.E., Pennacchio,L.A.,
+            Richardson,P., Stubbs,L., Rokhsar,D.S., Myers,R.M., Rubin,E.M. and
+            Lucas,S.M.
+  TITLE     The DNA sequence and biology of human chromosome 19
+  JOURNAL   Nature 428 (6982), 529-535 (2004)
+   PUBMED   15057824
+REFERENCE   3  (bases 1 to 19228)
+  AUTHORS   Lander,E.S., Linton,L.M., Birren,B., Nusbaum,C., Zody,M.C.,
+            Baldwin,J., Devon,K., Dewar,K., Doyle,M., FitzHugh,W., Funke,R.,
+            Gage,D., Harris,K., Heaford,A., Howland,J., Kann,L., Lehoczky,J.,
+            LeVine,R., McEwan,P., McKernan,K., Meldrim,J., Mesirov,J.P.,
+            Miranda,C., Morris,W., Naylor,J., Raymond,C., Rosetti,M., Santos,R.,
+            Sheridan,A., Sougnez,C., Stange-Thomann,N., Stojanovic,N.,
+            Subramanian,A., Wyman,D., Rogers,J., Sulston,J., Ainscough,R.,
+            Beck,S., Bentley,D., Burton,J., Clee,C., Carter,N., Coulson,A.,
+            Deadman,R., Deloukas,P., Dunham,A., Dunham,I., Durbin,R., French,L.,
+            Grafham,D., Gregory,S., Hubbard,T., Humphray,S., Hunt,A., Jones,M.,
+            Lloyd,C., McMurray,A., Matthews,L., Mercer,S., Milne,S.,
+            Mullikin,J.C., Mungall,A., Plumb,R., Ross,M., Shownkeen,R., Sims,S.,
+            Waterston,R.H., Wilson,R.K., Hillier,L.W., McPherson,J.D.,
+            Marra,M.A., Mardis,E.R., Fulton,L.A., Chinwalla,A.T., Pepin,K.H.,
+            Gish,W.R., Chissoe,S.L., Wendl,M.C., Delehaunty,K.D., Miner,T.L.,
+            Delehaunty,A., Kramer,J.B., Cook,L.L., Fulton,R.S., Johnson,D.L.,
+            Minx,P.J., Clifton,S.W., Hawkins,T., Branscomb,E., Predki,P.,
+            Richardson,P., Wenning,S., Slezak,T., Doggett,N., Cheng,J.F.,
+            Olsen,A., Lucas,S., Elkin,C., Uberbacher,E., Frazier,M., Gibbs,R.A.,
+            Muzny,D.M., Scherer,S.E., Bouck,J.B., Sodergren,E.J., Worley,K.C.,
+            Rives,C.M., Gorrell,J.H., Metzker,M.L., Naylor,S.L.,
+            Kucherlapati,R.S., Nelson,D.L., Weinstock,G.M., Sakaki,Y.,
+            Fujiyama,A., Hattori,M., Yada,T., Toyoda,A., Itoh,T., Kawagoe,C.,
+            Watanabe,H., Totoki,Y., Taylor,T., Weissenbach,J., Heilig,R.,
+            Saurin,W., Artiguenave,F., Brottier,P., Bruls,T., Pelletier,E.,
+            Robert,C., Wincker,P., Smith,D.R., Doucette-Stamm,L., Rubenfield,M.,
+            Weinstock,K., Lee,H.M., Dubois,J., Rosenthal,A., Platzer,M.,
+            Nyakatura,G., Taudien,S., Rump,A., Yang,H., Yu,J., Wang,J.,
+            Huang,G., Gu,J., Hood,L., Rowen,L., Madan,A., Qin,S., Davis,R.W.,
+            Federspiel,N.A., Abola,A.P., Proctor,M.J., Myers,R.M., Schmutz,J.,
+            Dickson,M., Grimwood,J., Cox,D.R., Olson,M.V., Kaul,R., Raymond,C.,
+            Shimizu,N., Kawasaki,K., Minoshima,S., Evans,G.A., Athanasiou,M.,
+            Schultz,R., Roe,B.A., Chen,F., Pan,H., Ramser,J., Lehrach,H.,
+            Reinhardt,R., McCombie,W.R., de la Bastide,M., Dedhia,N.,
+            Blocker,H., Hornischer,K., Nordsiek,G., Agarwala,R., Aravind,L.,
+            Bailey,J.A., Bateman,A., Batzoglou,S., Birney,E., Bork,P.,
+            Brown,D.G., Burge,C.B., Cerutti,L., Chen,H.C., Church,D., Clamp,M.,
+            Copley,R.R., Doerks,T., Eddy,S.R., Eichler,E.E., Furey,T.S.,
+            Galagan,J., Gilbert,J.G., Harmon,C., Hayashizaki,Y., Haussler,D.,
+            Hermjakob,H., Hokamp,K., Jang,W., Johnson,L.S., Jones,T.A.,
+            Kasif,S., Kaspryzk,A., Kennedy,S., Kent,W.J., Kitts,P., Koonin,E.V.,
+            Korf,I., Kulp,D., Lancet,D., Lowe,T.M., McLysaght,A., Mikkelsen,T.,
+            Moran,J.V., Mulder,N., Pollara,V.J., Ponting,C.P., Schuler,G.,
+            Schultz,J., Slater,G., Smit,A.F., Stupka,E., Szustakowski,J.,
+            Thierry-Mieg,D., Thierry-Mieg,J., Wagner,L., Wallis,J., Wheeler,R.,
+            Williams,A., Wolf,Y.I., Wolfe,K.H., Yang,S.P., Yeh,R.F., Collins,F.,
+            Guyer,M.S., Peterson,J., Felsenfeld,A., Wetterstrand,K.A.,
+            Patrinos,A., Morgan,M.J., de Jong,P., Catanese,J.J., Osoegawa,K.,
+            Shizuya,H., Choi,S. and Chen,Y.J.
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Initial sequencing and analysis of the human genome
+  JOURNAL   Nature 409 (6822), 860-921 (2001)
+   PUBMED   11237011
+  REMARK    Erratum:[Nature 2001 Aug 2;412(6846):565]
+COMMENT     ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI RefSeq
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: GCF_000001405.40-RS_2023_10
+            Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline
+            Annotation Software Version :: 10.2
+            Annotation Method :: Best-placed RefSeq; Gnomon; RefSeqFE; cmsearch;
+            tRNAscan-SE
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            Annotation Date             :: 10/02/2023
+            ##Genome-Annotation-Data-END##
+            REFSEQ INFORMATION: The reference sequence is identical to
+            CM000681.2.
+            On Feb 3, 2014 this sequence version replaced NC_000019.9.
+            Assembly Name: GRCh38.p14 Primary Assembly
+            The DNA sequence is composed of genomic sequence, primarily
+            finished clones that were sequenced as part of the Human Genome
+            Project. PCR products and WGS shotgun sequence have been added
+            where necessary to fill gaps or correct errors. All such additions
+            are manually curated by GRC staff. For more information see:
+            https://genomereference.org.
+FEATURES             Location/Qualifiers
+     source          1..19228
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+     gene            <1..31
+                     /gene="ANKLE1"
+                     /gene_synonym="ANKRD41; LEM3; LEMD6"
+                     /note="ankyrin repeat and LEM domain containing 1; Derived
+                     by automated computational analysis using gene prediction
+                     method: BestRefSeq."
+                     /db_xref="GeneID:126549"
+                     /db_xref="HGNC:HGNC:26812"
+                     /db_xref="MIM:619348"
+     misc_RNA        <1..31
+                     /gene="ANKLE1"
+                     /gene_synonym="ANKRD41; LEM3; LEMD6"
+                     /product="ankyrin repeat and LEM domain containing 1,
+                     transcript variant 5"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NR_103530.2"
+                     /db_xref="GeneID:126549"
+                     /db_xref="HGNC:HGNC:26812"
+                     /db_xref="MIM:619348"
+     gene            complement(4516..15810)
+                     /gene="ABHD8"
+                     /note="abhydrolase domain containing 8; Derived by
+                     automated computational analysis using gene prediction
+                     method: BestRefSeq."
+                     /db_xref="GeneID:79575"
+                     /db_xref="HGNC:HGNC:23759"
+     misc_feature    4811..4990
+                     /standard_name="ATAC-STARR-seq lymphoblastoid silent region
+                     10335"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:130063923"
+     regulatory      4811..4990
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="silent region_10335"
+                     /function="represses an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:130063923"
+     gene            4958..19228
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="mitochondrial ribosomal protein L34; Derived by
+                     automated computational analysis using gene prediction
+                     method: BestRefSeq."
+                     /db_xref="GeneID:64981"
+                     /db_xref="HGNC:HGNC:14488"
+                     /db_xref="MIM:611840"
+     misc_feature    complement(13792..13857)
+                     /gene="ABHD8"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96I13.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    complement(13534..13632)
+                     /gene="ABHD8"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96I13.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    5061..5150
+                     /standard_name="ATAC-STARR-seq lymphoblastoid active region
+                     14263"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:130063924"
+     regulatory      5061..5150
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="active region_14263"
+                     /function="activates an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:130063924"
+     misc_feature    6290..6838
+                     /standard_name="H3K27ac-H3K4me1 hESC enhancer
+                     GRCh37_chr19:17404714-17405262"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:127890757"
+     regulatory      6290..6838
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:30033119]"
+                     /note="H3K27ac-H3K4me1 hESC enhancer
+                     chr19:17404714-17405262 (GRCh37/hg19 assembly coordinates)"
+                     /function="activates a minimal SCP1, AML or CMV promoter by
+                     ChIP-STARR-seq in primed H9 embryonic stem cells
+                     {active_cell/tissue: H9 hESC(primed)}"
+                     /db_xref="GeneID:127890757"
+     misc_feature    6839..7387
+                     /standard_name="H3K27ac-H3K4me1 hESC enhancer
+                     GRCh37_chr19:17405263-17405811"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:127890758"
+     regulatory      6839..7387
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:30033119]"
+                     /note="H3K27ac-H3K4me1 hESC enhancer
+                     chr19:17405263-17405811 (GRCh37/hg19 assembly coordinates)"
+                     /function="activates a minimal SCP1, AML or CMV promoter by
+                     ChIP-STARR-seq in primed H9 embryonic stem cells
+                     {active_cell/tissue: H9 hESC(primed)}"
+                     /db_xref="GeneID:127890758"
+     misc_feature    13346..13846
+                     /standard_name="H3K4me1 hESC enhancer
+                     GRCh37_chr19:17411770-17412270"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:127890759"
+     regulatory      13346..13846
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:30033119]"
+                     /note="H3K4me1 hESC enhancer chr19:17411770-17412270
+                     (GRCh37/hg19 assembly coordinates)"
+                     /function="activates a minimal SCP1, AML or CMV promoter by
+                     ChIP-STARR-seq in naive and primed H9 embryonic stem cells
+                     {active_cell/tissue: H9 hESC(naive and primed)}"
+                     /db_xref="GeneID:127890759"
+     misc_feature    13847..14347
+                     /standard_name="H3K4me1 hESC enhancer
+                     GRCh37_chr19:17412271-17412771"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:127890760"
+     regulatory      13847..14347
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:30033119]"
+                     /note="H3K4me1 hESC enhancer chr19:17412271-17412771
+                     (GRCh37/hg19 assembly coordinates)"
+                     /function="activates a minimal SCP1, AML or CMV promoter by
+                     ChIP-STARR-seq in naive and primed H9 embryonic stem cells
+                     {active_cell/tissue: H9 hESC(naive and primed)}"
+                     /db_xref="GeneID:127890760"
+     misc_feature    14705..14999
+                     /standard_name="Sharpr-MPRA regulatory region 8409"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:125371491"
+     regulatory      14705..14999
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:27701403]"
+                     /note="tiled region #8409; K562 Repressive non-DNase
+                     unmatched - State 2:TssF"
+                     /function="represses a minimal TATA promoter and a strong
+                     SV40 promoter by Sharpr-MPRA in K562 cells
+                     {active_cell/tissue: K562}"
+                     /db_xref="GeneID:125371491"
+     misc_feature    15383..15932
+                     /standard_name="ATAC-STARR-seq lymphoblastoid silent region
+                     10336"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:130063925"
+     regulatory      15383..15932
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="silent region_10336"
+                     /function="represses an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:130063925"
+     misc_feature    18201..18280
+                     /standard_name="ATAC-STARR-seq lymphoblastoid active region
+                     14264"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:130063926"
+     regulatory      18201..18280
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="active region_14264"
+                     /function="activates an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:130063926"
+     transit_peptide join(18278..18342,18551..18623)
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     mat_peptide     18624..18761
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /product="Large ribosomal subunit protein bL34m.
+                     /id=PRO_0000030520"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     misc_feature    18696..18698
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1); phosphorylation site"
+     transit_peptide join(18278..18342,18551..18623)
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     mat_peptide     18624..18761
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /product="Large ribosomal subunit protein bL34m.
+                     /id=PRO_0000030520"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     misc_feature    18696..18698
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1); phosphorylation site"
+     transit_peptide join(18278..18342,18551..18623)
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     mat_peptide     18624..18761
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /product="Large ribosomal subunit protein bL34m.
+                     /id=PRO_0000030520"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     misc_feature    18696..18698
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1); phosphorylation site"
+     transit_peptide join(18278..18342,18551..18623)
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     mat_peptide     18624..18761
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /product="Large ribosomal subunit protein bL34m.
+                     /id=PRO_0000030520"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     misc_feature    18696..18698
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1); phosphorylation site"
+     transit_peptide join(18278..18342,18551..18623)
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     mat_peptide     18624..18761
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /product="Large ribosomal subunit protein bL34m.
+                     /id=PRO_0000030520"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     misc_feature    18696..18698
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1); phosphorylation site"
+     misc_feature    18511..18570
+                     /standard_name="ATAC-STARR-seq lymphoblastoid silent region
+                     10337"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:130063927"
+     regulatory      18511..18570
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="silent region_10337"
+                     /function="represses an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:130063927"
+     my-3_CDS_0      complement(13241..14001)
+                     /gene="ABHD8"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="protein ABHD8"
+                     /protein_id="NP_078803.4"
+                     /db_xref="CCDS:CCDS12355.1"
+                     /db_xref="Ensembl:ENSP00000247706.2"
+                     /db_xref="GeneID:79575"
+                     /db_xref="HGNC:HGNC:23759"
+                     /translation="MLTGVTDGIFCCLLGTPPNAVGPLESVESSDGYTFVEVKPGRVLR
+                     VKHAGPAPAAAPPPPSSASSDAAQGDLSGLVRCQRRITVYRNGRLLVENLGRAPRADLL
+                     HGQNGSGEPPAALEVELADPAGSDGRLAPGSAGSGSGSGSGGRRRRARRPKRTIHIDCE
+                     KRITSCKGAQADVVLFFIHGVGGSLAIWKEQLDFFVRLGYEVVAPDLAGHGASSAPQVA
+                     AAYTFYALAEDMRAIFKRYAKKRNVLIGHSYGVSFCTFLAHEYPDLVHKVIMINGGGPT
+                     ALEPSFCSIFNMPTCVLHCLSPCLAWSFLKAGFARQGAKEKQLLKEGNAFNVSSFVLRA
+                     MMSGQYWPEGDEVYHAELTVPVLLVHGMHDKFVPVEEDQRMAEILLLAFLKLIDEGSHM
+                     VMLECPETVNTLLHEFLLWEPEPSPKALPEPLPAPPEDKK"
+     my-3_CDS_1      complement(7060..7230)
+                     /gene="ABHD8"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="protein ABHD8"
+                     /protein_id="NP_078803.4"
+                     /db_xref="CCDS:CCDS12355.1"
+                     /db_xref="Ensembl:ENSP00000247706.2"
+                     /db_xref="GeneID:79575"
+                     /db_xref="HGNC:HGNC:23759"
+                     /translation="MLTGVTDGIFCCLLGTPPNAVGPLESVESSDGYTFVEVKPGRVLR
+                     VKHAGPAPAAAPPPPSSASSDAAQGDLSGLVRCQRRITVYRNGRLLVENLGRAPRADLL
+                     HGQNGSGEPPAALEVELADPAGSDGRLAPGSAGSGSGSGSGGRRRRARRPKRTIHIDCE
+                     KRITSCKGAQADVVLFFIHGVGGSLAIWKEQLDFFVRLGYEVVAPDLAGHGASSAPQVA
+                     AAYTFYALAEDMRAIFKRYAKKRNVLIGHSYGVSFCTFLAHEYPDLVHKVIMINGGGPT
+                     ALEPSFCSIFNMPTCVLHCLSPCLAWSFLKAGFARQGAKEKQLLKEGNAFNVSSFVLRA
+                     MMSGQYWPEGDEVYHAELTVPVLLVHGMHDKFVPVEEDQRMAEILLLAFLKLIDEGSHM
+                     VMLECPETVNTLLHEFLLWEPEPSPKALPEPLPAPPEDKK"
+     my-3_CDS_2      complement(6673..6889)
+                     /gene="ABHD8"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="protein ABHD8"
+                     /protein_id="NP_078803.4"
+                     /db_xref="CCDS:CCDS12355.1"
+                     /db_xref="Ensembl:ENSP00000247706.2"
+                     /db_xref="GeneID:79575"
+                     /db_xref="HGNC:HGNC:23759"
+                     /translation="MLTGVTDGIFCCLLGTPPNAVGPLESVESSDGYTFVEVKPGRVLR
+                     VKHAGPAPAAAPPPPSSASSDAAQGDLSGLVRCQRRITVYRNGRLLVENLGRAPRADLL
+                     HGQNGSGEPPAALEVELADPAGSDGRLAPGSAGSGSGSGSGGRRRRARRPKRTIHIDCE
+                     KRITSCKGAQADVVLFFIHGVGGSLAIWKEQLDFFVRLGYEVVAPDLAGHGASSAPQVA
+                     AAYTFYALAEDMRAIFKRYAKKRNVLIGHSYGVSFCTFLAHEYPDLVHKVIMINGGGPT
+                     ALEPSFCSIFNMPTCVLHCLSPCLAWSFLKAGFARQGAKEKQLLKEGNAFNVSSFVLRA
+                     MMSGQYWPEGDEVYHAELTVPVLLVHGMHDKFVPVEEDQRMAEILLLAFLKLIDEGSHM
+                     VMLECPETVNTLLHEFLLWEPEPSPKALPEPLPAPPEDKK"
+     my-3_CDS_3      complement(5046..5216)
+                     /gene="ABHD8"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="protein ABHD8"
+                     /protein_id="NP_078803.4"
+                     /db_xref="CCDS:CCDS12355.1"
+                     /db_xref="Ensembl:ENSP00000247706.2"
+                     /db_xref="GeneID:79575"
+                     /db_xref="HGNC:HGNC:23759"
+                     /translation="MLTGVTDGIFCCLLGTPPNAVGPLESVESSDGYTFVEVKPGRVLR
+                     VKHAGPAPAAAPPPPSSASSDAAQGDLSGLVRCQRRITVYRNGRLLVENLGRAPRADLL
+                     HGQNGSGEPPAALEVELADPAGSDGRLAPGSAGSGSGSGSGGRRRRARRPKRTIHIDCE
+                     KRITSCKGAQADVVLFFIHGVGGSLAIWKEQLDFFVRLGYEVVAPDLAGHGASSAPQVA
+                     AAYTFYALAEDMRAIFKRYAKKRNVLIGHSYGVSFCTFLAHEYPDLVHKVIMINGGGPT
+                     ALEPSFCSIFNMPTCVLHCLSPCLAWSFLKAGFARQGAKEKQLLKEGNAFNVSSFVLRA
+                     MMSGQYWPEGDEVYHAELTVPVLLVHGMHDKFVPVEEDQRMAEILLLAFLKLIDEGSHM
+                     VMLECPETVNTLLHEFLLWEPEPSPKALPEPLPAPPEDKK"
+     my-8_CDS_0      18278..18342
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="isoform a is encoded by transcript variant 3;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="large ribosomal subunit protein bL34m isoform a"
+                     /protein_id="NP_076426.1"
+                     /db_xref="CCDS:CCDS12356.1"
+                     /db_xref="Ensembl:ENSP00000252602.1"
+                     /db_xref="GeneID:64981"
+                     /db_xref="HGNC:HGNC:14488"
+                     /db_xref="MIM:611840"
+                     /translation="MAVLAGSLLGPTSRSAALLGGRWLQPRAWLGFPDAWGLPTPQQAR
+                     GKARGNEYQPSNIKRKNKHGWVRRLSTPAGVQVILRRMLKGRKSLSH"
+     my-8_CDS_1      18551..18764
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="isoform a is encoded by transcript variant 3;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="large ribosomal subunit protein bL34m isoform a"
+                     /protein_id="NP_076426.1"
+                     /db_xref="CCDS:CCDS12356.1"
+                     /db_xref="Ensembl:ENSP00000252602.1"
+                     /db_xref="GeneID:64981"
+                     /db_xref="HGNC:HGNC:14488"
+                     /db_xref="MIM:611840"
+                     /translation="MAVLAGSLLGPTSRSAALLGGRWLQPRAWLGFPDAWGLPTPQQAR
+                     GKARGNEYQPSNIKRKNKHGWVRRLSTPAGVQVILRRMLKGRKSLSH"
+     my-9_transit_pep18278..18342
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     my-9_transit_pep18551..18623
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     my-10_CDS_0     18278..18342
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="isoform a is encoded by transcript variant 1;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="large ribosomal subunit protein bL34m isoform a"
+                     /protein_id="NP_001369271.1"
+                     /db_xref="CCDS:CCDS12356.1"
+                     /db_xref="GeneID:64981"
+                     /db_xref="HGNC:HGNC:14488"
+                     /db_xref="MIM:611840"
+                     /translation="MAVLAGSLLGPTSRSAALLGGRWLQPRAWLGFPDAWGLPTPQQAR
+                     GKARGNEYQPSNIKRKNKHGWVRRLSTPAGVQVILRRMLKGRKSLSH"
+     my-10_CDS_1     18551..18764
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="isoform a is encoded by transcript variant 1;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="large ribosomal subunit protein bL34m isoform a"
+                     /protein_id="NP_001369271.1"
+                     /db_xref="CCDS:CCDS12356.1"
+                     /db_xref="GeneID:64981"
+                     /db_xref="HGNC:HGNC:14488"
+                     /db_xref="MIM:611840"
+                     /translation="MAVLAGSLLGPTSRSAALLGGRWLQPRAWLGFPDAWGLPTPQQAR
+                     GKARGNEYQPSNIKRKNKHGWVRRLSTPAGVQVILRRMLKGRKSLSH"
+     my-11_transit_pe18278..18342
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     my-11_transit_pe18551..18623
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     my-12_CDS_0     18278..18342
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="isoform a is encoded by transcript variant 2;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="large ribosomal subunit protein bL34m isoform a"
+                     /protein_id="NP_001369272.1"
+                     /db_xref="CCDS:CCDS12356.1"
+                     /db_xref="GeneID:64981"
+                     /db_xref="HGNC:HGNC:14488"
+                     /db_xref="MIM:611840"
+                     /translation="MAVLAGSLLGPTSRSAALLGGRWLQPRAWLGFPDAWGLPTPQQAR
+                     GKARGNEYQPSNIKRKNKHGWVRRLSTPAGVQVILRRMLKGRKSLSH"
+     my-12_CDS_1     18551..18764
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="isoform a is encoded by transcript variant 2;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="large ribosomal subunit protein bL34m isoform a"
+                     /protein_id="NP_001369272.1"
+                     /db_xref="CCDS:CCDS12356.1"
+                     /db_xref="GeneID:64981"
+                     /db_xref="HGNC:HGNC:14488"
+                     /db_xref="MIM:611840"
+                     /translation="MAVLAGSLLGPTSRSAALLGGRWLQPRAWLGFPDAWGLPTPQQAR
+                     GKARGNEYQPSNIKRKNKHGWVRRLSTPAGVQVILRRMLKGRKSLSH"
+     my-13_transit_pe18278..18342
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     my-13_transit_pe18551..18623
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     my-14_CDS_0     18278..18342
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="isoform a is encoded by transcript variant 5;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="large ribosomal subunit protein bL34m isoform a"
+                     /protein_id="NP_001387002.1"
+                     /db_xref="CCDS:CCDS12356.1"
+                     /db_xref="GeneID:64981"
+                     /db_xref="HGNC:HGNC:14488"
+                     /db_xref="MIM:611840"
+                     /translation="MAVLAGSLLGPTSRSAALLGGRWLQPRAWLGFPDAWGLPTPQQAR
+                     GKARGNEYQPSNIKRKNKHGWVRRLSTPAGVQVILRRMLKGRKSLSH"
+     my-14_CDS_1     18551..18764
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="isoform a is encoded by transcript variant 5;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="large ribosomal subunit protein bL34m isoform a"
+                     /protein_id="NP_001387002.1"
+                     /db_xref="CCDS:CCDS12356.1"
+                     /db_xref="GeneID:64981"
+                     /db_xref="HGNC:HGNC:14488"
+                     /db_xref="MIM:611840"
+                     /translation="MAVLAGSLLGPTSRSAALLGGRWLQPRAWLGFPDAWGLPTPQQAR
+                     GKARGNEYQPSNIKRKNKHGWVRRLSTPAGVQVILRRMLKGRKSLSH"
+     my-15_transit_pe18278..18342
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     my-15_transit_pe18551..18623
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     my-16_CDS_0     18278..18342
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="isoform a is encoded by transcript variant 4;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="large ribosomal subunit protein bL34m isoform a"
+                     /protein_id="NP_001387001.1"
+                     /db_xref="CCDS:CCDS12356.1"
+                     /db_xref="GeneID:64981"
+                     /db_xref="HGNC:HGNC:14488"
+                     /db_xref="MIM:611840"
+                     /translation="MAVLAGSLLGPTSRSAALLGGRWLQPRAWLGFPDAWGLPTPQQAR
+                     GKARGNEYQPSNIKRKNKHGWVRRLSTPAGVQVILRRMLKGRKSLSH"
+     my-16_CDS_1     18551..18764
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="isoform a is encoded by transcript variant 4;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="large ribosomal subunit protein bL34m isoform a"
+                     /protein_id="NP_001387001.1"
+                     /db_xref="CCDS:CCDS12356.1"
+                     /db_xref="GeneID:64981"
+                     /db_xref="HGNC:HGNC:14488"
+                     /db_xref="MIM:611840"
+                     /translation="MAVLAGSLLGPTSRSAALLGGRWLQPRAWLGFPDAWGLPTPQQAR
+                     GKARGNEYQPSNIKRKNKHGWVRRLSTPAGVQVILRRMLKGRKSLSH"
+     my-17_transit_pe18278..18342
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     my-17_transit_pe18551..18623
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="Mitochondrion.
+                     /evidence=ECO:0000250|UniProtKB:A8NN94; propagated from
+                     UniProtKB/Swiss-Prot (Q9BQ48.1)"
+     my-18_CDS_0     18278..18318
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="isoform b is encoded by transcript variant 6;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="large ribosomal subunit protein bL34m isoform b"
+                     /protein_id="NP_001387003.1"
+                     /db_xref="CCDS:CCDS92555.1"
+                     /db_xref="GeneID:64981"
+                     /db_xref="HGNC:HGNC:14488"
+                     /db_xref="MIM:611840"
+                     /translation="MAVLAGSLLGPTSRLAGMSISRATSNARTSTAGSGA"
+     my-18_CDS_1     18627..18696
+                     /gene="MRPL34"
+                     /gene_synonym="bL34m; L34mt"
+                     /note="isoform b is encoded by transcript variant 6;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="large ribosomal subunit protein bL34m isoform b"
+                     /protein_id="NP_001387003.1"
+                     /db_xref="CCDS:CCDS92555.1"
+                     /db_xref="GeneID:64981"
+                     /db_xref="HGNC:HGNC:14488"
+                     /db_xref="MIM:611840"
+                     /translation="MAVLAGSLLGPTSRLAGMSISRATSNARTSTAGSGA"
+ORIGIN
+        1 ttagtttctt aataaatttg ctttcactgt actctatgaa ctcgccctgg attctttcta
+       61 gcgtgagatt ggagaaccct ctcttggggt ctggatcggg cctttctggt aacactttgg
+      121 cagcttggtg ctgtcaaaat ggatggagcc tgccaggcgc ggtggctcac gcctgtaatc
+      181 ccagcacttt gggaggctga ggcaggtgga tcacaaggtc aggagattga gaccgtcctg
+      241 gctaacatgg tgaaaccccg tctctactaa aaatacaaaa aattagacag gcatggttgc
+      301 aggcggctat aatcccagct actcgggaag ctgaggcagg agaatggcat gaacctggga
+      361 ggtggagctt gcagtgagcc gagattgtgc cactgcactc cagcctgggc aacagagcga
+      421 gactctgtct caaaaaataa ataaaataaa atggatagag gctgctttta ccgcccagac
+      481 atgggacacc cacatggcgg gttggactgg gggatcctca gctgcactca ggatatctac
+      541 ccagctcaag agccaagttc actgctaccc agccgtgaga cctctgatca gtattttatc
+      601 tgcctgagca tcagtttcct tggttgtaca gtggaggcag taaagaggtc ctactccagg
+      661 ggatcattgt aaggtcatgt tggggctggg tgtcacgctt gtaatcccag cactttggga
+      721 ggctgaggcg ggagcatagc atgagcccag gagtttgaga ccagcctggg caacatagca
+      781 agactctatc tctacgaaaa gtaaaaacat taggcggatc tggtgggtgg gcctgtggtc
+      841 ctagctgctt gggagcctga ggtgggaaga ttgcttgagc ctgggagttg gaggcttcaa
+      901 ggagctacca tcacagcact gcactccagc ctgggcgata tcaagatcct gtctcttaaa
+      961 aaaactataa aaatttaaaa ataaggtcat gtgagcaaag tgtgtggctc agagcccaaa
+     1021 gtgtgtggca gtgcagccca ggcgagaact tgctggagga aggggaggtg tgggggccct
+     1081 caaggggccg cctgtgtgat gaggcgtgag cagggctggg accctcctca ggatcattgt
+     1141 gcaaccccag cctcccctgt tgcttctggg aacctgttta tccactataa aatgggatta
+     1201 ttggccgggc tcggtggctc acgcctgtaa tcccagcact ttgggaggcc gaggcaggca
+     1261 gatcacctga gttcgggagt tcgagaccag cctgaccaac atggagaaac cccatctcta
+     1321 ttaaaaatac aaaaattagc tgggcgtggt ggcgcatgcc tgtaatctca gctacttggg
+     1381 aggctgaggc aggagaattg cttgaacccg ggaggcggag gttgcagtga gccaagatca
+     1441 agccattgca gtccagcctg ggtaacaaga gcaaaactcc gtctcaaaaa aagggaggga
+     1501 tcattaataa taacccggca gggcgtggtg gctcacgcct gtaatcccgg cactttggga
+     1561 ggccgaggcg ggtggatcac ctgaggtcag gagttcaaga ccagcctgac caacatggtg
+     1621 aaaccctgtc tctactacat acaaaacatg agccgggtgt ggtggtgagc acctgtgatt
+     1681 ccagctactt gggaggctga ggcaggagaa tcacttgaac ccgggaggcg aaggttgcag
+     1741 aaaactgaga tcgcgccact gtaccccagc ctgggcgaca gtgagactcc gtctcaaata
+     1801 ataataataa taataataat aataataata ataataataa taataataaa taacccgact
+     1861 tccagcgatg ctatgcgact tcagaccatt catgtgcaaa ggtcttaagt aaataccaag
+     1921 ccgccatcct ggtgagatgt cagcggtctg gtttcgggcg ggcgggggtc gggggggggt
+     1981 cgagggcatt taagcttctg gaagtcgctt ctgcaaaggg cccggtgcat ttagggactt
+     2041 gggagagatc cgctgcctca ttggtttcag gacctgccgg tcatcacggc ggtttagcca
+     2101 accaggtccc ccagggggcg ggctgtgacc tgggccgagt ttccacccac ctcgccactg
+     2161 cttagccacc ggctgctcct cggggaatgg ctggtattgt gattaggggt ccagtctctg
+     2221 gagtgggttt gggctcgacc acttgtaatc gagctgaaga aaccgctctc tgagcttcac
+     2281 tttcctccag tgtaaaacag gggccaggca ccgtggctca cgcctgtact cccagaactt
+     2341 tgggaggccg aagcgagtgg atcacctgag gtcaggagtt caagatcagc ctggccaaca
+     2401 cagtgaaaca ctgtctctac taaaaataca aaaattagcc gggcgcggtg gcgggtgtct
+     2461 gtaatctcag ctactcggga ggctgaggca ggagaatcgc ttgaacccag gaggctgagg
+     2521 ctgcagtgaa ccgagattgt gccactgcac tccagcctgg gtaacagagc aagacactgt
+     2581 ctcagaaaaa aaaaaaaaag tgtgaaacag ggatgcctcc cagttgccaa atctaataat
+     2641 aaagccacag gtgttatgac actgtgccat cgccccagaa tacacaaaca ggacattggt
+     2701 aaagaaccta gagcccccag aagagatggg atttgtctaa cacagggttt cccaatcttg
+     2761 gccctaatga catttggggt tggcttattc tttgctgtgg ggtctgtccc ttgcatttca
+     2821 gggtgatgag cagcgttcct ggcctccatc cactagaagt cagcaacacc catgcacccc
+     2881 caaacatggc gatcaaaaat gtctccagaa gttgccaatg gacacaattg cccccctggc
+     2941 taaactaagg atggagctca caaaccggtg gggaaaggac agaaccgagg gaaagatttc
+     3001 ctccctcctc ctgtaataca cagaaaccac agataggacc agatatacat ggaccagaat
+     3061 aaaatgtagg tgaggtgcgg tggatcacgc ctgtaacccc agcactttgg gaggccgagg
+     3121 cgggtggatc acgaggtcag gagttccaag accagtctgg ccaagatggt gaaaccccgt
+     3181 ctctactaaa aatacaaaaa ttagctgggc gtagtggcag gagcctgtaa tcccagctac
+     3241 tccagtggct gaggcaggaa aatttcctga acccgggggg cggaggttgc agtgagccga
+     3301 gatcgtgcca ctgcactcca gcctgggcga cagagtgaga ctctgtctca aaaaacaaac
+     3361 aaacaaacaa acaaaaacaa aaccaaaacc caactaaaag acagatttgg tggtttcaaa
+     3421 agaaaagtct tcttgacaaa ggtggcccta aaccaagctg aaagatataa cacgggaata
+     3481 gtaaaaggtc ctgacttgct gggtggggtt ggatgagtcg aattcaatga accagtgggt
+     3541 ggcaggcatt caacacacag cctggaaaac agtgggcact caattatggc agctctaatt
+     3601 ccatgcaaca cccactgatc ttcacctaaa cctcggttgg atctcttccg gccagggaag
+     3661 ggctcatctc gttttttttt gagaaggagt atcgccttgt tgcgcaggct ggagtgcagt
+     3721 ggtacgatct cagctgaccg caacctccac ttcctgggtt caagcgattc tcctgcctca
+     3781 ggctccccga gtagctggga ccacaggcgc gtgccaccat tcctggcttg tctttgtttt
+     3841 ttgttgttgt tgttgttgtt gtttgtttgt ttgttttaga tggagtctcg ctctgtcacc
+     3901 caggctggag tgcagtggca cgatctcggc tcactgtaat ttccgcctcc cgggttcacg
+     3961 ccattcttct gccacagcct cccgagtagc tgggactaca ggcgcccgcc accacgccca
+     4021 gctaattttt tgtatttttt actagagacg gggtttcact gtgttagcca ggatggtctc
+     4081 gatctcctga cctcgtgatc cccccacctc tgcctcccaa agtgctggga ttacaggcgt
+     4141 gaaccaccgc gcctggcctg tctgcatttt taaatagaga cggggtttca ccattttggc
+     4201 caggctgttc tcgaactcct gacctcaggc gatactcctc ggcctcccaa agtgctggga
+     4261 ttacaggcgt gagtcaccac gtccggccgg ggtcacctct tgataagttg cctcctgccc
+     4321 tgggggatac tgtccaagga gcctcagcct tctgaggtac gaggggaaat tcaggaagct
+     4381 aacgtggaca ccagacattg tcgaagtcga tcctgagcgc gaggcaccag cctgagccca
+     4441 gtctgcagat gggaaaactg aggctccagg cggcgaacac cctgccctgt ggtcacccag
+     4501 cacaggtccg gagactccga ttgtcacttc tgtttattga gttacaagtt gagatgtgca
+     4561 ggttcggtgg cgccagcccc cccatccccc ccccttgggc aaaaatagct cccagcgccg
+     4621 aggaatgggg ggtaggaagg gtctcggata acgggatggg gcctcgaggg tccctgtggg
+     4681 gctcgtgggt cccaggatca agcacggctg acacggaaga cagcggggtg gggggcctgc
+     4741 cttggccgtg gcgttggggg gaaggtgagg gagagcttct gtacaaggtc atcttccgtg
+     4801 agggtcccgg ctgcggcccc aaaacgccga tgggccccgc gggacggaag cggagagcgg
+     4861 aatgtccgct gggctccctc ggatgccacg ccccgcccag gcagcctggg ggcgtctccc
+     4921 tgacctggcc ccgcccaccg gagcgaacgg cccgcccagg tggtctgcgc tgcagacctg
+     4981 gcgcaggctc gggcctcctc ctgctgcggc tgtgctcacc aagcgatgcc ccgccggccc
+     5041 agcggctact tcttgtcttc tggaggcgcc ggcagtggct ccggtagagc cttgggcgag
+     5101 ggctcgggct cccagagcag gaattcgtgg agcagcgtgt tgaccgtctc agggcattcc
+     5161 agcatcacca tgtggctgcc ctcgtcgatg agcttcagga atgccaggag caggatctgc
+     5221 agaagacgca gggctcaagg taggcggggg caagagggtg gagagaggcc aggcttccct
+     5281 gggactccgc catacacaca tggcccacag catccaaaag tccctcctcc catctaccct
+     5341 gcatctctcc acttccactc aagggggagc tggaggatgg cctgtagccc tgctggaacc
+     5401 caactagtat tcaggcatcc agcatttatt aagtgtctac agtatgccag gagaaggatt
+     5461 ttcttctttt tttcttttct ttcttttttt ttttttttga gacagagtct tgctctgtca
+     5521 cccaggctgg agtgcagtgg cgtaatctcg gctcactcca acctctgcct cccggcttca
+     5581 agcgattctc ttgcctcagc ctcccaagta gctgggatta caggcacgcg ccactacacc
+     5641 cggctaattt tttgtatttt tagtagagac ggggtttcgc catgtttgtc aggctgatct
+     5701 ccaactcctg acctcaggcg atctgcccgc ctcggtctcc caaagtgctg ggattacagg
+     5761 agtgagccac cgcgcccggc ctggaggagg attttgtcaa cttcaactct accaacatta
+     5821 ggagctggat cattctttgc tgggggggcg ggggtgggcg gggaaggggc gggtagctgg
+     5881 ggtgggggct gctatcctgt gcatttgtag ggtgttgagc agcatccctg gcctccaccc
+     5941 actagatgcc agtagtaccc cctccccctc agtcgtgaca cctaaaaatg tctccatgca
+     6001 tttccacgtg ttccttgggg gcagaatcct ccttagttaa gaaccaccag tccagttata
+     6061 ctttaatggt ttttgttttt tttttttttt ctttaagaaa cggggtcttg ctctgtcgcc
+     6121 caggctggag tgcagtggtg cgagcatggc tcaccacagc cttgaactcc tgggttcaag
+     6181 cgatccgccc cactcagcct cccaagttgc agcgattatt ggcgtgaacc acctcgccgg
+     6241 gctagtatcc agggctattc taagtgctaa ggatccccag accctttcta atctgaactc
+     6301 gctaattaga gtttctaatc taaagatccc ctggtgccgg tcttctagaa ttatataggt
+     6361 caccggtctc atacaaatcc tccgctgtga ggagagcctt cttacagcgg tggggacagt
+     6421 gcgtaattgc taacacctgt ccagggcagc cctgctttct agattctact tctgatgcta
+     6481 gacctaatgc tcctgtttgc ctggggtcag aacaagatac agcaactaga ggccacgccc
+     6541 acccggcagc cacgccccct cgggaagaaa gcacgcccac caagcgctac cacgcccccc
+     6601 gcagaggcca cgcccctccc gggcagcacc ctggggattt gtagctgtgg cgccccaggt
+     6661 gcccgcctct acctcggcca tgcgctggtc ttcctccacc ggcacaaact tatcgtgcat
+     6721 gccgtggaca agcaggacgg gcacggtgag ctcggcgtgg tagacctcgt cgccctcggg
+     6781 ccagtactgg ccgctcatca tggcccggag tacgaaggat gacacgttga aagcgttgcc
+     6841 ctcctttaac agctgcttct ccttggctcc ttggcgggcg aagccggccc tggtggtggt
+     6901 ggaggcaccg ctagagcccc ttatgccagc ccgactgccg tggggtgccc ccgatgccag
+     6961 ccctagtccc agcggtacag tcccccctcc catccaactc gagcagatgc ctgggttcgc
+     7021 cagggccagg atcacggtct ttggggtggg gacactcact tgaggaagct ccaggccagg
+     7081 cagggcgaca agcagtgcag gacgcaggtg ggcatgttga agattgagca gaagctgggc
+     7141 tccagcgccg tagggccccc gccattgatc atgatcacct tgtgcactag gtctgggtac
+     7201 tcatgtgcca ggaatgtgca gaaagagaca ctgcccggaa cgggtggggt gataggagga
+     7261 ttgaagggag gcggtcagca ggatacaagc agtgaccatt ttgttttgct ttgtttttgt
+     7321 ttttgtttga gacagtttta ctctgtcccc caggctggaa tgcagtggct ccatcttggc
+     7381 tcactgcaac ctctgcctcc caggttcaag cgattctcct gcctcagtct cccgagtagc
+     7441 tgagattgca ggcgcacacc accacaccca ggtaattttt tttttttttt tttttttttt
+     7501 tgagacggag tctcgctctg tcgcccaggc cggactgcgg actgcagtgg cgcaatctcg
+     7561 gctcactgca agctccgctt cccgggttca cgccattctc ctgcctcagc ctcccgagta
+     7621 gctgggacta caggcgcccg ccaccgcgcc cggctaattt tttgtatttt tagtagagat
+     7681 ggggtttcac catgttggtc gggctggtct caaattcctg acctcaagtg atccatccgc
+     7741 ctcggcctcc caaagtgctg ggattacagg cctgagccac tgcgcctggc ctggtttgtt
+     7801 tttgtttttg agatggagtc tcattctgtt gcccaggttg gagtacagtg atgcaatctc
+     7861 agctcactgc aacctctgcc tcctgggttc aactgattct ccttcctcag cctcccgagt
+     7921 agctgggagt acaggcatgc accaccacac ctggctaatt tttgtatttt ttagtagaca
+     7981 cagggtttca gcatgttgct caggctggtc gagaactcct gacctcaagt gatccaccca
+     8041 ccttggcttc ccaaagtgcg gggattacag gcatgagcca ctgggctggc ctgttttgtt
+     8101 tttgtttttg agacaaggtt tcgctgtcgc ctaggctgga gtggtgcggt ggcgtaatca
+     8161 tagctccctg cagccttgac ttcctgggct caagagatcc tcccacctca gccttctgaa
+     8221 tagctgggac tacaggcatg tgccaccatg ctcagctaat ttttaaaaat ttttttataa
+     8281 agacagggtc tccttatgtt gcccaggctg gtcttgaact cctgggctca agtgatcctc
+     8341 tggccttaac ctcccaaagt gctgggatta taggcgtgag ccgtgacacc cggcctggtg
+     8401 agggggttca tgtcctcccc ctacccagaa ggcaggtcct tggaagccaa gattcttccc
+     8461 ctggggtcca tggacacctg aaggggtgag ggatgagtgc ggcctctcaa ataccgtgaa
+     8521 agtgtgagtt tgagtgttga ggatggaact tattttgaag agagaatctg gatccagaag
+     8581 tttcaccaga ctttttattt taattgttta aaatttttgt agagatgggg gtctcactat
+     8641 gttgcccagg ctggtcttga acttctgggc tcaagtgatc cttccacctt ggccttccaa
+     8701 agtgttaaga ttatagatat gagccactgt gcccggccct catcagattc ttcaagccac
+     8761 catgacccaa aagcggtaag aattactcat cagcaagtgg taggaaagca atctgattaa
+     8821 acaaatgctt ccggctgccc aggggaggtc actgtttcct actatccctt ccctttcagg
+     8881 atgttctgcc acctgcctct gggcatgaca tatctgtctt ccttatacaa gatggaaggc
+     8941 ctgagaagcc cccaaagctg agctcctcat tcctacaaaa gcaggggtca acaaactatg
+     9001 tacggcctgt gggctagtca tttgcttttt taaatacagt ttacactttt ggagatttga
+     9061 aaaatgtttc ctaaataagg tttttttttt tttttttgag atggagtcct gctctgttgc
+     9121 ccacgctgga gcacagtggc gcgatctcgg ctcactgcaa cctccgcctc ccgggttcaa
+     9181 gtgattctcc tgtctcagcc tcccgagtag ctgggattac aggcatctgc cattatgccc
+     9241 ggctaatttt tgtattttta gtagagacgg ggtttcaccg tgttagtcag gctggtcttg
+     9301 aactcccgac ctcaggtgat ctgcccacct tggcctccca aagtgctggg attagaggcg
+     9361 tgagccaccg tgcctggcca aaaaatgttt cctaaataaa gttttatcag aagttccaac
+     9421 agtgactgta tggcctgcaa acctaaaata ttcgctatcc gatcctttaa ggaaatgttt
+     9481 gccagcccct gctgtaatga ggaaaggata cagacaggag tcaggcagac ctgattgtgt
+     9541 cagggacttc ctgtatgcct ttgggcaggt tgcttcacct ctctgagctt cagcctccac
+     9601 attcctgaag ttgtaaatgt gctgacctaa tagcactgtt atggggtcat gggaactatt
+     9661 gtaggtgggt gttttttttg tttttttgtt tttttctcga gacagagtct tgctctgtca
+     9721 ctcaggctgg agtgcaatgg tgcgatctcg gctcactgca acccccacct catgggttcg
+     9781 aatgattatc ctgcctcagc ctcccaagta gctgggatta taggcacctg caaccatacc
+     9841 cagctacttt ttgtattttt attagagacg gggtttcacc attttggcca ggctggtctt
+     9901 gaactcctga ccttgtgatc cgcctgcctc ggcctccaaa agttctggga ttacaggtgt
+     9961 gaaccactgt gcccagcagg tgggtgctca tttaattaga ggaatcattt ctcataagca
+    10021 tcaacttttg agtatgttat ataaagaaat ataaacaaat aagagctgtt acctctcagt
+    10081 ctagattcct ttcttttaga tacttatgta acttctttgt tttcttttct tttttttttt
+    10141 tttttacttt ttagtttttt gtagagatga gatcttgctt atgttgccca ggttggtctt
+    10201 gaactcctca gctatagcag tcctcccacc tcagcttccc aaagtgttgg gattataggt
+    10261 gtaagccacc acacctggcc acttatttat ttttcttttt tctttttttt tttttttgag
+    10321 atggagtctc actctgtcac ccaggctgga gtgcagtggc acaatctcgg ctcactgcaa
+    10381 gctccacctc ctgggtgcac gccattctcc tgcctcagcc tcctgagtag ctgggactac
+    10441 aggcgcctgc caccatgcct ggctaatttt tttttgtatt ttttagtaga gacggggttt
+    10501 caccgtgtta gccaggatgg tcttgatctc ctgacctcct gatccgcccg cctcggcctc
+    10561 ccaaattgct gggattacag gtgtgagcca ccacgcctgg cctttttttc ttgtctaatt
+    10621 gcataggcta gaatctctaa aacagtggtg ctcaacttgc ctggctgttc aatcttgcct
+    10681 ttcttcctgg ataaaggaga gaatgaggcc acttggtagt ggtcaagccc tggggaccaa
+    10741 gccttccatg gaggggttct tggtaagttt taggttgtat tacctgccct ttaagcagga
+    10801 gtgaattaca gtaacccatg cctttgtaaa tgcctagaat ttacaggatt ccgatgagcg
+    10861 cttcctgaat gcacagtgtt ctccagggca gttgattttt taacttagtc taaggcagtg
+    10921 gttctcagct gggggtaatt ctgcccacca gggcacgctt ggcaactact gaagacattt
+    10981 ttgactgtca tgatcaacac tagattgtgt agttgcatcc agtgggcaga agccagggat
+    11041 gctactaaac atcctatagc ccctcacaga aaaaaaataa cctggccaaa cacgatagtg
+    11101 ctgggattga acaacactgc tttttttttt tttttttttt ttttgggcag agtctcactc
+    11161 tgttgctcag gctggagtgc agtggtgtga tcttggctca ctgcaacctc tgcctcccag
+    11221 gttcaagtga ttctcctgcc tcacaccccc gagtagctgg gattacaggc acacaccatc
+    11281 atgcctggtt aattttttgt acttttagta gagatggggt ttcaccatgt tggccaaact
+    11341 ggtgttgaac tcctgacctc aagtgatctg cctgctttgg cttcctaaag tgctaggatt
+    11401 acaggcgtaa gccactgcac ctggcctgag caacactgct ttagaacaat gtgaaacaat
+    11461 atcagtgatg acggaaatcc ctgtctgatt acatatgcta atgggagttt tcagcctggt
+    11521 atagcggctc atgcctgtta ccccaccaca tcgggaggcc aaggagggag gatggcttga
+    11581 gcccaggagt tcaagaccag cctgggcaac ataatgagac ccccccccca ttctctatat
+    11641 aatttttttt tgaacttgaa aattggcctg gtgcgttggc tcacgcctgt aatcccagcg
+    11701 ctttgggagg ccgaggaggg cgaatcacga ggtcaggaga tcgagaccat cctggctaac
+    11761 acggtgaaac cccgtctgta ctaaaaagac aaaaaattag ccaggcatgg tagcgggtgc
+    11821 ctgtagtccc agctactagg gaggctgagg caggagaatg gcatgaacct gggaggtgga
+    11881 gcttgcagtg agccaggatc acgccactgc actccagcct gggggacaga gtgagactcc
+    11941 atctcaaaaa aaaaaaaaaa aaaaaaaatt aaggctgagc acaatgactc acacctgtag
+    12001 tcctagcact ttgggaggct gaggtgcaag gatcacttga gcccagtagt taaagaacat
+    12061 cttgggcaac atagtgagat gccatctcta tttaaaagaa aaaaaaattt taaaaatgta
+    12121 aaaattaaat tgaaaaatgg gatttttttc aaggagaaaa attaggattt ttgtttgctt
+    12181 tgttttgttt taggagataa ggttttgcca tgttgtccaa actcatctcc aatgatccat
+    12241 ccacaaagtg ctgggattac aaatgtgcac caccgcgcgt ggtggcccct tttttttttt
+    12301 tcatgacgga gtctccttct gtcgcccagg ctggagtgca gtggcacaat atgatcttgg
+    12361 ctcactgcaa gctccgtctc ccgtgctcat gccattctcc tgcctcagcc tcccgagtag
+    12421 ctgggactat aggtgcccac caccacaccc agctaatttt ttgtattttt agtagagaca
+    12481 gggtttcacc gtgttagcca ggatggtctc aatcttctga cctcgtgatc cgcccgcctc
+    12541 agcctcccaa agtgctggga ttacaggcgt gagccaccgc gcccggattt ttttttcttt
+    12601 tttaaagagc gacaggttct tgccatgctg cccaggctgg agtgcagtgg tgtgatcaca
+    12661 gttcactgca gcctcgacct cccagactca agcaatctcc tgcctcagcc cttaagtagg
+    12721 tggaactata tgcgtgcacc tcctcaccta gctaatgttt gtactttttg tagagctagg
+    12781 gggttctccc tatgttgccc aggctggtct caaactcctt gcctcaagat atcctcccgc
+    12841 cttggccccc gaaagcactg ggattacagg tgtcagtggc atctcagagt ctccctctgt
+    12901 cgcccaggct ggagtgcagt gacacaatct cggctcactg caacctccac ctcctcggtt
+    12961 caagtgattc ctctgcctca gcctcccgag tagctgggac tacaggcgcg tgccaccacg
+    13021 tctggctaat ttttgtattt ttggtagaga cggggtttca ccaccttggc cagactgttc
+    13081 ccgaactccc aacctcaggt gatccgcctg cctcggcctc ccaaagtgct gggattacag
+    13141 gcgtgagcca cggggctcag ccaaaaactc agtattttgt gactgtagtc cctgctgacc
+    13201 ccatccctca cccccacccc acatgccagg gttcacttac ccgtaggaat ggccaatgag
+    13261 cacatttcgc ttcttggcat agcgcttgaa gattgctcgc atgtcctcag ccagcgcata
+    13321 gaaggtgtag gctgcggcca cctggggcgc agagctggcc ccgtggccgg ccaggtcagg
+    13381 agccaccacc tcatagccta ggcgcacaaa gaagtccagc tgctccttcc agatggccag
+    13441 ggaaccgccg acaccatgga tgaaaaagag caccacgtcg gcctgggcgc ctttgcagct
+    13501 agtgatgcgc ttctcacagt caatatggat ggtcctcttg gggcgcctgg ctcgccgccg
+    13561 ccgcccacca ctgccactgc cgctgccgct gcctgcgctg ccgggggcca agcggccatc
+    13621 gctgcccgcc ggatctgcca gctccacctc cagggcggcc ggcggctccc cagagccatt
+    13681 ctgcccgtgt aggaggtcgg ctcgaggggc tcggcccagg ttttccacca gcaaccgccc
+    13741 attgcggtac acggtgatcc ggcgctgaca gcggaccaag ccggagaggt ccccctgggc
+    13801 tgcatccgag gatgcggatg atggtggagg tggggcagcg gctggggcgg gtcctgcatg
+    13861 cttcacccgc agcacgcggc cgggcttgac ctctacaaag gtgtagccat cgctggactc
+    13921 gacgctctcc agtggcccca cggcgttggg gggcgtgccc agcaggcaac agaagatacc
+    13981 gtcggtcacc ccggtcagca tggtgtgtcc tgtgagtgag gacagcagcc agttcaggtg
+    14041 ctgtctcaat gagaaccctg caccgtgcag caggcactcc ctgagccttg ggagaactgt
+    14101 tttagactcc agtttgggga gcgccagatc aagtgagcca cggcactgag atttttttgt
+    14161 ttgtgtgtgt gtgtgtgtgt gtgtgtgtgt gtgtttttga gacagtctcg ctttgtcatc
+    14221 caggctggag ggcagtggcc ggatttcggc ttactgcaac ctccccctcc tgggttcaag
+    14281 cgattctctt gcctcagcct cctgagtagc tgggattata ggcaggtgcc accatgtcta
+    14341 gctaattttt gtattttttg tagagatggg gtttcaccat gttggccagg ctggtcttga
+    14401 actcctgacc tcaaattttc ctcctgcttc ggcctcccaa agtgctggga ttataggtgt
+    14461 gagccaccgt gcactgacat gttttgtctg agcagtgcct ttgtggtagt taccctcctg
+    14521 ggtcacccta gtctatcctc agagagaaag acttggctat ggcttacccc acagggtgtc
+    14581 cacagggaag gtggtggcgt cttgtgtggg gatgttcctg gagaagggga cattgtggca
+    14641 aatgtggacc agccggaaga caccccctcc ccccagctgg agtttatacc atttatggcc
+    14701 tcctaactca ttcattcagg tatacactaa ctcatccatt caggtataca ctaactcatt
+    14761 cattcaggta tacactaact cactaactca tccaggtatg cactcactaa ctcacatatc
+    14821 cccagggcct cctaaggcat ctaaaatatg caaatctttg gtgagccccc agtgaggctc
+    14881 ctggctctga atttgactcc tgaaaggtga ggccctagga gagggggatg gggactgagc
+    14941 cacagaaagc cttgctcagc tcccctagac cggggtgagc cggggtctgt ttcatagagg
+    15001 gccaagctga ggcccagaca ctctgagagg aagctagact ctgaacttcc tccttggcac
+    15061 cctggattct ggggatctgc tatacaagtc cccagaggtg gcgaagagga tgggagaggc
+    15121 agggccctgg ctgggggcct ccaagcctcc atcccactcc ttgggccacc cccgcccccg
+    15181 tgtccatggc aaccacaggc ggttacataa cctaaggggg ggatacccga gcagtgcacc
+    15241 cccattgtcg aggtgtctag ggcctggaga tgggaccagc tgcctgcctg ccccctaccc
+    15301 caggttgggc gccgctaagg taacgcacgc ccgagactga gccgcagtgg ccccagacat
+    15361 actggagggg aagcaggcca tgccccccac ctcgagtggg gccctaatcc cggattgtgg
+    15421 agggcaacgc acaggcgcca ccccagcccc gcttccccgc ccccggcccc cgccttccag
+    15481 gtgttcgtca tccctgcagc ggggtcgagc ccactggggc tccgtggctt cctacgagcc
+    15541 caaacgcggg gttggtggac accactcctc cgaagtggag gccccggggc ttcgatctct
+    15601 ccttttgggg cccgttcccc gctcacctca tcgagggccg cggggcccgg gtcggggcgg
+    15661 aggggtccca ggcggagaag ccagcgtccg cctgctggcg ccgtttacat ggtggcgcgg
+    15721 ggtcaggccg ggtgcgtcta cgcgggcggg cacctgcccc tggcggtcag cgcaggggca
+    15781 tcccgcggcc gccgaaacag ccggcccttt aagttcctcc cccgagtagg cggagccacg
+    15841 tgccgacggg cgggcacttc ggcctatcgc agctgcggac tgacctggcc tagttaggag
+    15901 cccaatgaga ggcggcaatt ccgtagtgga ggcgggctct gggagcaacg gccccgcccc
+    15961 ttttgggggt tcaccgaggt tgggggaggg atggggcctg gctcaaggcg gagaaggggg
+    16021 ttgcagtcta gggtctgcgg gacgcctggg agtgtgcggc cggggccctc tctctgcaaa
+    16081 tgggtctccc aagcccttgc cccccagccc ctgcctccca attgccctgt tcctctccaa
+    16141 acgaggcccc catactcttc tctctgtatt gacctttcca ttctagaagc agagactcca
+    16201 agatcttttt ccaatctccg gtggggaaac tgaggctcat aaagggcaca agagcataaa
+    16261 tcaagcaagg agcaaagctg ggacttgaac ccaaggctgt gtgattccaa accctgggaa
+    16321 ccattatttg ctaacctccc ccctacgccc cccccttttc ttttggtagg gacgaggtct
+    16381 cgctatcttg cccagactgg tctcgaactc tgggcatcaa gcaatcctct cgtctacggc
+    16441 ctcccaaagg gctgagatca ctggcgtgag ccatcgtgac gggcttctct aaagctttca
+    16501 aggaaagtct tggagctgtg ggtaattaga gagtttgaat ttcataatca gccgatttaa
+    16561 cccatggctg ccatggttct gagaagggct gatagcaaga ggcaggcatc ccagctctgt
+    16621 ggtaccggcg gggccatggt aggccctcag gagagctcag gtctcaaatc cagcctctgc
+    16681 cctttgctga tgtgtgacct cgggcaagtt acttcacttt cctgagcctc cgtttatttc
+    16741 tctatgaaat taatcctctc ataagtttgc tacgcaggta aagcactcat catagtgtcg
+    16801 tgcatataac aaatgctcca tatattatgg gcattattat agtggtgatg ttttgctaaa
+    16861 cgatgctaca ggtaggatgg gcttcggagg acgaggggtt aaatgctcct tgctgcttgg
+    16921 ccactcacat cccctggaat ttgctgccag agctggattc cgtccagaca cctactcttg
+    16981 cccactaagg gcacttctgg gagactatac agtttattca tttagcaaac acctctctgc
+    17041 atgaacccca agctggcact tgtagggata cagccccagg cccctggccc ttgaggagcc
+    17101 cttgaacttg ggggagagtc aagggaaagc agtcgggcca gaagaatgga cagcggttga
+    17161 gagaagacga ctcctttttt ttttgagaaa ggatctcact ccgttgccca ggctgcagtg
+    17221 cattggcgct atcattgctc actacagcct ggatctcctg ggttcaggga atcctcccac
+    17281 ctcaccttca agtacttgag actataggtg gttgctacca tgtccccagg ctggtctcaa
+    17341 actcctggcc ccaagggatc ctccctcctc agcctcccaa aatgctggaa ttacaggcat
+    17401 gagccacacc tcactcagcc cttggagagg aaaggatttt taaagggcgg ataggggaac
+    17461 accaggcaga gaggagagtg tggctgaaat gtaagatggt gtgtgtagag ggttttgcat
+    17521 gcctgatgga agggctgagc aggttttacc tggggaaatg gggagccaag gatagtgtgt
+    17581 gagtagggga ggggttcaga tctgagtatc agaaaatttt tcttcctttt tttttttttt
+    17641 ttttttggtt ctaacaacag aggagaattc ttctagggcc caaaatgggg gcaagattgc
+    17701 caaagacaag cttgcaatcc ctgagtttac agattgagaa agcccagagt ggcgcaggga
+    17761 ccaccccaag gacacgcagc gagcttgaac tcaggcctcc tcggcttcct gccaagaggc
+    17821 ggagacttgg ctgcagccag gacaagctgc cagccagctg tgtgccatct gcccagctcc
+    17881 cgctgggggc gggaagacca accagccgct tcctgcagct gccaccagct gcgcccggcc
+    17941 accgcggggc accctctgcc ggtcaatagg agagagaact acagctcagc tgccagctga
+    18001 ccgcgggaga taatgccttg tgcgcacgcg cttgctcaga aggcgccgtt cgccggctac
+    18061 ctgttggtgt gtatgcagag catccctgtg ccccgcggat atagactggc gcgcctctgt
+    18121 tgcgcaggcg cagaactaca acttcagggt tttccccaac ggcctctttt ttgcacgtta
+    18181 ggagaaacta catttcccat aatcctttgt tccagggctg gagcggctct gggctccgga
+    18241 atcgcccgca gccggtactg cgggacccac tgcggatatg gctgtcttgg ctggatccct
+    18301 gttgggcccc acgagtaggt cggcagcgtt gctgggtggc aggtaagtcc tcagggggac
+    18361 ccttccccaa atcagggaat aagggcggct tcggaggctg gcgccactct tcactgcccg
+    18421 cgtgacctgc cagtgccttg cgcattttgc agccaggctc tgtctccggg agccgaggct
+    18481 cagagaggtt gagcgccaag gtcacccagc gccccgtctg acctttctcg ccgtccctct
+    18541 acccacgcag gtggctccag ccccgggcct ggctggggtt cccagacgcc tggggcctcc
+    18601 ccaccccgca gcaggcccgg ggcaaggctc gcgggaatga gtatcagccg agcaacatca
+    18661 aacgcaagaa caagcacggc tgggtccggc gcctgagcac gccggccggc gtgcaggtca
+    18721 tccttcgccg aatgctcaag ggccgcaagt cgctgagcca ttgaggatcg cgacgcagtc
+    18781 ggcgggaccc tcatggaagc atcgccctcg cctcggacct tgcctggcgc tatttttgca
+    18841 gggagctggg gagcaggaac gcctcggacc tgagtgctct ccatattgtg gggttgaagt
+    18901 ctggatggga gcttgccaag tcccttttta ggctttttaa ttaggaagca tttcgaacct
+    18961 gcgcaacaga ccaaagaaca gtacaaagaa catccgtgta cccagtaccc tgactaccga
+    19021 ctacctacaa cccgtccctg ccccatcctg agttcttttg aagctgatct caggcatcgg
+    19081 attatttctt ctgtaaatat ttcagaatgt atctctccaa gatgagagct cattaaaaga
+    19141 caattacaaa gcttatcaca tccaaaagaa ttatcaataa ttttgaaata ttattaaacg
+    19201 tgtaataaat gttcaaagtt ccacttgc
+//
