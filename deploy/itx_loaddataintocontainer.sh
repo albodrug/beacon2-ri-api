@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-datadir='/home/bodrug-a/Devlopment/beacon2-ri-api/deploy/data/'
+datadir='/home/bodrug-a/bin/beacon2-ri-api/deploy/data/'
 
 # AIC EXOME DATA
 if [[ "$1" == *"aic"* ]] ; then
@@ -34,6 +34,7 @@ elif [[ "$1" == *"1kGP-hg38"* ]]; then
     done
   echo "Loaded "
 # CINECA DATA 
+# Cineca data aw directly in the data folder, i moved it
 elif [[ "$1" == "cineca" ]] ; then
   echo "Loading CINECA data..."
   echo ${datadir}${1}

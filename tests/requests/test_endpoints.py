@@ -1,5 +1,7 @@
 import os
 import ssl
+import sys 
+sys.path.insert(1, '/home/bodrug-a/bin/beacon2-ri-api/')
 from beacon import __main__
 from aiohttp import web
 from aiohttp_middlewares import cors_middleware
