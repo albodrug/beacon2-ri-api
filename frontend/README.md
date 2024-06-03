@@ -1,6 +1,6 @@
-## Deploy
+# Getting Started with Create React App
 
-Use the deployment for all the containers for beacon to also deploy the UI [Deployment](https://github.com/EGA-archive/beacon2-ri-api/blob/develop/deploy/README.md). You will find it running in http://localhost:3000
+Use the deployment for all the containers for beacon to also deploy the UI [Deployment](../deploy/README.md). You will find it running in http://localhost:3000
 
 ## Instructions on how to configure the Beacon User Interface
  
@@ -18,7 +18,7 @@ Tip: for Life Science environment, please first [create a user](https://lifescie
 After that you will need to register a service registry in order to be able to administrate your logins. Please go [here](https://services.aai.lifescience-ri.eu/spreg/) and ask for a New Service - type OIDC -.
 
 
-Then please edit the file config.json, which can be found inside folder [frontend/src](https://github.com/EGA-archive/beacon2-ri-api/blob/develop/frontend/src/config.json). You need to decide where you want the UI to point to when making requests. Find below an example:
+Then please edit the file [config.json](src/config.json). You need to decide where you want the UI to point to when making requests. Find below an example:
 
  ```bash
 {
@@ -32,3 +32,4 @@ Finally, please include the URL of your User interface to the file beacon/_ main
 
 
 Note that in the frontend folder you will find a file called .gitignore with the list of all files that need to be ignored.
+

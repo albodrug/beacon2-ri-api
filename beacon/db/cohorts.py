@@ -82,7 +82,7 @@ def get_analyses_of_cohort(entry_id: Optional[str], qparams: RequestParams, data
     count = get_count(client.beacon.cohorts, query)
     with open("/beacon/beacon/request/cohorts.yml", 'r') as datasets_file:
         datasets_dict = yaml.safe_load(datasets_file)
-    cohort_ids=get_cross_query(datasets_dict[entry_id],'biosampleIds','id')
+    cohort_ids=get_cross_query(datasets_dict[entry_id],'biosampleIds','biosampleId')
     query = apply_filters(cohort_ids, qparams.query.filters, collection, {})
     schema = DefaultSchemas.ANALYSES
     with open("/beacon/beacon/request/datasets.yml", 'r') as datasets_file:
@@ -173,7 +173,7 @@ def get_biosamples_of_cohort(entry_id: Optional[str], qparams: RequestParams, da
 
 
 def get_filtering_terms_of_cohort(entry_id: Optional[str], qparams: RequestParams):
-    query = {'scope': 'cohorts'}
+    query = {'scopes': 'cohort'}
     schema = DefaultSchemas.FILTERINGTERMS
     count = get_count(client.beacon.filtering_terms, query)
     remove_id={'_id':0}

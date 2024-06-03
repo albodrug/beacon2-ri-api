@@ -1,12 +1,18 @@
+import yaml
+
+with open("beacon/api_version.yml") as api_version_file:
+    api_version = yaml.safe_load(api_version_file)
+
 """Beacon Configuration."""
+
 
 #
 # Beacon general info
 #
-beacon_id = 'org.ega-archive.ga4gh-approval-beacon-test'  # ID of the Beacon
-beacon_name = 'GA4GH Approval Beacon Test'  # Name of the Beacon service
-api_version = 'v2.0.0'  # Version of the Beacon implementation
-uri = 'https://beacon-apis-demo.ega-archive.org/api/'
+beacon_id = 'org.ega-archive.gdi-spanish-beacon'  # ID of the Beacon
+beacon_name = 'GDI Spanish Beacon'  # Name of the Beacon service
+api_version = api_version['api_version'] # Version of the Beacon implementation
+uri = 'https://beacon-spain.ega-archive.org/api/'
 
 #
 # Beacon granularity
@@ -61,8 +67,7 @@ ga4gh_service_type_artifact = 'beacon'
 ga4gh_service_type_version = '1.0'
 
 # Beacon handovers
-beacon_handovers = [
-    {
+beacon_handovers ={
         'handoverType': {
             'id': 'CUSTOM:000001',
             'label': 'Project description'
@@ -70,7 +75,6 @@ beacon_handovers = [
         'note': 'Project description',
         'url': 'https://www.nist.gov/programs-projects/genome-bottle'
     }
-]
 
 #
 # Database connection
@@ -106,10 +110,9 @@ permissions_url = 'http://beacon-permissions:5051/'
 #
 # or use Elixir AAI (see https://elixir-europe.org/services/compute/aai)
 #
-idp_user_info = 'https://beacon-network-demo2.ega-archive.org/auth/realms/Beacon/protocol/openid-connect/userinfo'
-lsaai_user_info = 'https://login.elixir-czech.org/oidc/userinfo'
-trusted_issuers = ['https://beacon-network-demo2.ega-archive.org/auth/realms/Beacon', 'https://login.elixir-czech.org/oidc/']
 
+idp_url = 'http://idp:8080/'
+#idp_url = 'http://localhost:8080/'
 
 #
 # UI
@@ -122,4 +125,4 @@ autocomplete_ellipsis = '...'
 #
 ontologies_folder = "ontologies"
 
-alphanumeric_terms = ['libraryStrategy', 'molecularAttributes.geneIds']
+alphanumeric_terms = ['libraryStrategy', 'molecularAttributes.geneIds', 'diseases.ageOfOnset.iso8601duration']

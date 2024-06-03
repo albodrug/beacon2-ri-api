@@ -40,23 +40,23 @@ With `mongo-express` we can see the contents of the database at [http://localhos
 To load the database we execute the following commands:
 
 ```bash
-docker cp /path/to/analyses.json deploy_db_1:tmp/analyses.json
-docker cp /path/to/biosamples.json deploy_db_1:tmp/biosamples.json
-docker cp /path/to/cohorts.json deploy_db_1:tmp/cohorts.json
-docker cp /path/to/datasets.json deploy_db_1:tmp/datasets.json
-docker cp /path/to/genomicVariations.json deploy_db_1:tmp/genomicVariations.json
-docker cp /path/to/individuals.json deploy_db_1:tmp/individuals.json
-docker cp /path/to/runs.json deploy_db_1:tmp/runs.json
+docker cp /path/to/analyses.json rimongo:tmp/analyses.json
+docker cp /path/to/biosamples.json rimongo:tmp/biosamples.json
+docker cp /path/to/cohorts.json rimongo:tmp/cohorts.json
+docker cp /path/to/datasets.json rimongo:tmp/datasets.json
+docker cp /path/to/genomicVariations.json rimongo:tmp/genomicVariations.json
+docker cp /path/to/individuals.json rimongo:tmp/individuals.json
+docker cp /path/to/runs.json rimongo:tmp/runs.json
 ```
 
 ```bash
-docker exec deploy_db_1 mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/datasets.json --collection datasets
-docker exec deploy_db_1 mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/analyses.json --collection analyses
-docker exec deploy_db_1 mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/biosamples.json --collection biosamples
-docker exec deploy_db_1 mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/cohorts.json --collection cohorts
-docker exec deploy_db_1 mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/genomicVariations.json --collection genomicVariations
-docker exec deploy_db_1 mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/individuals.json --collection individuals
-docker exec deploy_db_1 mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/runs.json --collection runs
+docker exec rimongo mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/datasets.json --collection datasets
+docker exec rimongo mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/analyses.json --collection analyses
+docker exec rimongo mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/biosamples.json --collection biosamples
+docker exec rimongo mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/cohorts.json --collection cohorts
+docker exec rimongo mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/genomicVariations.json --collection genomicVariations
+docker exec rimongo mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/individuals.json --collection individuals
+docker exec rimongo mongoimport --jsonArray --uri "mongodb://root:example@127.0.0.1:27017/beacon?authSource=admin" --file /tmp/runs.json --collection runs
 ```
 
 This loads the JSON files inside of the `data` folder into the MongoDB database container. Each time you import data you will have to create indexes for the queries to run smoothly. Please, check the next point about how to Create the indexes.
@@ -73,12 +73,12 @@ docker exec beacon python beacon/reindex.py
 
 #### List the ids
 
-After deploying all the data, you will need to tell the beacon which are the individual and biosample ids belonging to each dataset and cohort. In order to do that, please, add the name of each dataset with the respective array of all the ids together in this file [datasets.yml](https://github.com/EGA-archive/beacon2-ri-api/blob/master/beacon/request/datasets.yml).
-Then, repeat the same for the cohorts modifying this file [cohorts.yml](https://github.com/EGA-archive/beacon2-ri-api/blob/master/beacon/request/cohorts.yml).
+After deploying all the data, you will need to tell the beacon which are the individual and biosample ids belonging to each dataset and cohort. In order to do that, please, add the name of each dataset with the respective array of all the ids together in this file [datasets.yml](../beacon/request/datasets.yml).
+Then, repeat the same for the cohorts modifying this file [cohorts.yml](../beacon/request/cohorts.yml).
 
 #### Fetch the ontologies and extract the filtering terms
 
-> This step consists of analyzing all the collections of the Mongo database for first extracting the ontology OBO files and then filling the filtering terms endpoint with the information of the data loaded in the database.∫
+> This step consists of analyzing all the collections of the Mongo database for first extracting the ontology OBO files and then filling the filtering terms endpoint with the information of the data loaded in the database.
 
 You can automatically fetch the ontologies and extract the filtering terms running the following script:
 
