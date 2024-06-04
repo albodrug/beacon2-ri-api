@@ -10,7 +10,7 @@ with open("beacon/api_version.yml") as api_version_file:
 # Beacon general info
 #
 beacon_id = 'itx.french.beacon'  # ID of the Beacon
-beacon_name = 'ITX Frech Beacon'  # Name of the Beacon service
+beacon_name = 'ITX French Beacon'  # Name of the Beacon service
 api_version = api_version['api_version'] # Version of the Beacon implementation
 uri = 'https://umr1087.univ-nantes.fr/'
 
